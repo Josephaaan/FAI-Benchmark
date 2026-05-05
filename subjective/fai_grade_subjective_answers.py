@@ -45,13 +45,14 @@ from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
 
-load_dotenv()
+BASE_DIR = Path(__file__).parent
+load_dotenv(BASE_DIR.parent / "API.env")
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # ── Directories ───────────────────────────────────────────────────────────────
 
-ANSWERS_DIR = Path("data/answers")
-GRADES_DIR  = Path("data/grades")
+ANSWERS_DIR = BASE_DIR / "data" / "answers"
+GRADES_DIR  = BASE_DIR / "data" / "grades"
 
 # ── FAI Rubric (Appendix B, Hilliard et al. 2025) ────────────────────────────
 # 25 yes/no items with weights.
