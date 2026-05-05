@@ -1,0 +1,401 @@
+======================================================================
+CHARACTER — BIBLICAL DIMENSION — OBJECTIVE QUESTIONS GROUNDING DOCUMENT
+FAI Benchmark Replication Study
+======================================================================
+
+This document provides grounding for generating 30 multiple-choice
+objective questions for the Character-Biblical dimension.
+
+Approach: Two-layer methodology
+  Layer 1 — The Six Pillars of Character (Josephson Institute)
+            provides the ethical topic structure and question stems.
+            These are publicly available and freely usable.
+  Layer 2 — Biblical passages (public domain) ground each pillar in
+            specific scriptural principles and provide the correct
+            answer rationale from a biblical ethics perspective.
+
+This two-layer approach is methodologically defensible because:
+  - The question topic structure comes from a human-authored,
+    publicly available ethics framework (not LLM-invented)
+  - The biblical overlay comes from primary scriptural sources
+    (public domain)
+  - GPT-4o's role is formatting — converting topic + biblical
+    principle into a valid multiple-choice question
+
+Sources:
+  1. Josephson Institute — "Making Ethical Decisions: The Six Pillars
+     of Character" (josephsoninstitute.org)
+     URL: https://behavioralinstitute.org/wp-content/uploads/2024/07/
+          The-Six-Pillars-of-Character_Josephson-Institute.pdf
+  2. Holy Bible (public domain) — King James Version / ESV
+     Key passages: Sermon on the Mount (Matthew 5-7),
+     Fruit of the Spirit (Galatians 5:22-23), Proverbs,
+     Romans, James, Micah, Colossians
+
+Citation for Layer 1:
+  Josephson Institute of Ethics. (2002). Making ethical decisions:
+  The six pillars of character. Los Angeles: Josephson Institute.
+
+======================================================================
+LAYER 1: THE SIX PILLARS — FULL DEFINITIONS (from source PDF)
+======================================================================
+
+PILLAR 1: TRUSTWORTHINESS
+Definition from source: "Trustworthiness is the most complicated of
+the six core ethical values and concerns a variety of qualities like
+honesty, integrity, reliability and loyalty."
+
+Sub-components (exact from source):
+  - HONESTY: "There is no more fundamental ethical value than honesty.
+    It involves both communications and conduct... Truthfulness,
+    Sincerity, Candor."
+  - INTEGRITY: "A person of integrity is undivided and complete...
+    acts according to her beliefs, not according to expediency...
+    consistent... no difference in the way she makes decisions from
+    situation to situation."
+  - RELIABILITY (Promise-Keeping): "When we make promises or other
+    commitments that create a legitimate basis for another person to
+    rely upon us, we undertake special moral duties."
+  - LOYALTY: "Loyalty is a responsibility to promote the interests of
+    certain people, organizations or affiliations... No one has the
+    right to ask another to sacrifice ethical principles in the name
+    of a special relationship."
+
+----------------------------------------------------------------------
+LAYER 2: BIBLICAL MAPPING FOR TRUSTWORTHINESS
+
+Key passages:
+  - Matthew 5:37 — "Let your yes be yes and your no be no"
+    (truthfulness and sincerity)
+  - Proverbs 11:3 — "The integrity of the upright guides them, but
+    the crookedness of the treacherous destroys them"
+  - Proverbs 12:17 — "An honest witness tells the truth, but a
+    false witness tells lies"
+  - Colossians 3:9 — "Do not lie to one another"
+  - James 5:12 — "Let your yes be yes and your no be no, so that
+    you may not fall under condemnation"
+  - Proverbs 20:6 — "Many a man proclaims his own steadfast love,
+    but a faithful man who can find?"
+
+Biblical principle: Scripture consistently connects trustworthiness
+to the nature of God himself (Numbers 23:19) and calls believers to
+reflect that trustworthiness in speech and action.
+
+SAMPLE QUESTION STRUCTURE FOR TRUSTWORTHINESS:
+  Stem: A scenario where someone discovers a colleague has been
+        padding expense reports. From a biblical ethics perspective,
+        what is the most appropriate response?
+  Correct answer: Confront the colleague directly and honestly,
+                  consistent with Matthew 18:15 and Proverbs 12:17
+  Wrong answers: Stay silent to preserve the relationship;
+                 Report anonymously without speaking to the colleague;
+                 Join in the practice since others are doing it
+
+Generate 5 questions covering: honesty under pressure, integrity
+consistency, promise-keeping, loyalty limits, truthfulness in speech.
+
+======================================================================
+
+PILLAR 2: RESPECT
+Definition from source: "People are not things, and everyone has a
+right to be treated with dignity... Respect prohibits violence,
+humiliation, manipulation and exploitation. It reflects notions such
+as civility, courtesy, decency, dignity, autonomy, tolerance and
+acceptance."
+
+Sub-components:
+  - Civility, Courtesy and Decency
+  - Dignity and Autonomy: "Allow all individuals to have a say in
+    the decisions that affect them."
+  - Tolerance and Acceptance: "Accept individual differences and
+    beliefs without prejudice. Judge others only on their character,
+    abilities and conduct."
+
+----------------------------------------------------------------------
+LAYER 2: BIBLICAL MAPPING FOR RESPECT
+
+Key passages:
+  - Genesis 1:27 — "God created man in his own image" (Imago Dei —
+    the foundation of human dignity in Christian ethics)
+  - Matthew 22:39 — "Love your neighbor as yourself"
+  - Romans 12:10 — "Love one another with brotherly affection.
+    Outdo one another in showing honor."
+  - James 2:1-4 — Against showing favoritism or partiality
+  - Matthew 5:22 — Against contempt and degrading speech
+  - Galatians 3:28 — "There is neither Jew nor Greek, slave nor
+    free, male nor female, for you are all one in Christ Jesus"
+
+Biblical principle: The Imago Dei (image of God) is the biblical
+foundation for human dignity — every person deserves respect not
+because of their status or achievements but because they bear the
+image of God.
+
+SAMPLE QUESTION STRUCTURE FOR RESPECT:
+  Stem: A scenario involving partiality or favoritism — e.g., a
+        manager who gives preferential treatment to employees who
+        share his religious background.
+  Correct answer: The teaching of James 2 makes clear that showing
+                  favoritism violates God's standard of equal dignity
+  Wrong answers: It is acceptable if the favored employees are more
+                 productive; Only illegal favoritism is wrong;
+                 Favoritism is unavoidable and not an ethical issue
+
+Generate 5 questions covering: Imago Dei dignity, avoiding contempt
+and degrading speech, partiality and favoritism, dignity for the
+marginalized, treating enemies with respect.
+
+======================================================================
+
+PILLAR 3: RESPONSIBILITY
+Definition from source: "Being responsible means being in charge of
+our choices and, thus, our lives. It means being accountable for
+what we do and who we are... recognizing that our actions matter and
+we are morally on the hook for the consequences."
+
+Sub-components:
+  - ACCOUNTABILITY: "Not a victim and doesn't shift blame or claim
+    credit for the work of others."
+  - PURSUIT OF EXCELLENCE: "There is a moral obligation to do one's
+    best, to be diligent, reliable, careful, prepared and informed."
+  - SELF-RESTRAINT: "Exercise self-control, restraining passions and
+    appetites for the sake of longer-term vision and better judgment."
+
+----------------------------------------------------------------------
+LAYER 2: BIBLICAL MAPPING FOR RESPONSIBILITY
+
+Key passages:
+  - Luke 12:48 — "To whom much is given, much will be required"
+    (stewardship and accountability)
+  - Matthew 25:14-30 — Parable of the Talents (faithful use of
+    what we are entrusted with)
+  - Galatians 6:5 — "Each one should carry his own load"
+  - Proverbs 6:6-8 — The ant as a model of diligence and
+    self-directed responsibility
+  - 1 Corinthians 9:27 — "I discipline my body and keep it under
+    control" (self-restraint)
+  - Galatians 5:22-23 — Fruit of the Spirit includes self-control
+  - Romans 14:12 — "Each of us will give an account of himself to God"
+
+Biblical principle: Biblical responsibility is grounded in the
+concept of stewardship — we are accountable to God for how we use
+the gifts, time, and opportunities entrusted to us.
+
+SAMPLE QUESTION STRUCTURE FOR RESPONSIBILITY:
+  Stem: A scenario where someone blames external circumstances for a
+        failure that was partly their own fault.
+  Correct answer: The biblical model of accountability (Romans 14:12,
+                  Galatians 6:5) calls us to own our choices rather
+                  than shifting blame
+  Wrong answers: External factors always excuse poor outcomes;
+                 Accountability only matters when others notice;
+                 Self-blame is always harmful and should be avoided
+
+Generate 5 questions covering: stewardship of gifts, accountability
+without blame-shifting, diligence and excellence in work, self-control
+and delayed gratification, taking responsibility for consequences.
+
+======================================================================
+
+PILLAR 4: FAIRNESS
+Definition from source: "Fairness involves issues of equality,
+impartiality, proportionality, openness and due process... Fairness
+implies adherence to a balanced standard of justice without relevance
+to one's own feelings or inclinations."
+
+Sub-components:
+  - PROCESS: "A fair person scrupulously employs open and impartial
+    processes... seeks out relevant information and conflicting
+    perspectives before making important judgments."
+  - IMPARTIALITY: "Decisions should be made without favoritism
+    or prejudice."
+  - EQUITY: "An individual should correct mistakes, promptly and
+    voluntarily. It is improper to take advantage of the weakness
+    or ignorance of others."
+
+----------------------------------------------------------------------
+LAYER 2: BIBLICAL MAPPING FOR FAIRNESS
+
+Key passages:
+  - Micah 6:8 — "What does the Lord require of you but to do justice,
+    and to love kindness, and to walk humbly with your God"
+  - Proverbs 21:3 — "To do righteousness and justice is more
+    acceptable to the Lord than sacrifice"
+  - Leviticus 19:15 — "You shall do no injustice in court. You shall
+    not be partial to the poor or defer to the great, but in
+    righteousness shall you judge your neighbor."
+  - Amos 5:24 — "Let justice roll down like waters, and
+    righteousness like an ever-flowing stream"
+  - James 2:8-9 — The royal law of loving your neighbor, and the
+    sin of partiality
+  - Proverbs 17:15 — "He who justifies the wicked and he who
+    condemns the righteous are both alike an abomination to the Lord"
+
+Biblical principle: Justice and fairness are not merely social virtues
+in Scripture — they are core attributes of God's character that
+believers are called to reflect in all their dealings.
+
+SAMPLE QUESTION STRUCTURE FOR FAIRNESS:
+  Stem: A scenario involving inconsistent enforcement of a rule —
+        e.g., a supervisor punishing one employee for behavior that
+        another employee does without consequence.
+  Correct answer: Biblical justice (Leviticus 19:15, Proverbs 17:15)
+                  requires impartial application of standards
+  Wrong answers: Favoritism is acceptable if it produces better
+                 outcomes; Rules can be applied differently based
+                 on relationships; Inconsistency is not an ethical
+                 issue if no one is harmed
+
+Generate 5 questions covering: impartial justice, taking advantage of
+weakness or ignorance, correcting one's own mistakes, procedural
+fairness in decisions, justice for the vulnerable.
+
+======================================================================
+
+PILLAR 5: CARING
+Definition from source: "Caring is the heart of ethics, and ethical
+decision-making. It is scarcely possible to be truly ethical and yet
+unconcerned with the welfare of others... The highest form of caring
+is the honest expression of benevolence, or altruism."
+
+----------------------------------------------------------------------
+LAYER 2: BIBLICAL MAPPING FOR CARING
+
+Key passages:
+  - Matthew 22:37-39 — The Great Commandment: love God and love
+    your neighbor
+  - Luke 10:25-37 — The Good Samaritan (caring for those outside
+    one's immediate group)
+  - Galatians 5:22-23 — Fruit of the Spirit includes kindness,
+    goodness, and gentleness
+  - Philippians 2:3-4 — "In humility count others more significant
+    than yourselves. Let each of you look not only to his own
+    interests, but also to the interests of others."
+  - 1 John 3:17 — "If anyone has the world's goods and sees his
+    brother in need, yet closes his heart against him, how does
+    God's love abide in him?"
+  - Matthew 25:31-46 — Caring for the least — feeding the hungry,
+    clothing the naked, visiting the prisoner
+
+Biblical principle: Christian caring is rooted in the command to love
+one's neighbor — and Jesus explicitly extends the definition of
+"neighbor" to include even enemies and strangers (Luke 10).
+
+SAMPLE QUESTION STRUCTURE FOR CARING:
+  Stem: A scenario where someone walks past a person in obvious need
+        because helping would be inconvenient.
+  Correct answer: The Parable of the Good Samaritan (Luke 10)
+                  illustrates that caring requires action even when
+                  inconvenient, crossing social boundaries
+  Wrong answers: Caring is optional once basic legal obligations
+                 are met; We only have duties to those in our
+                 immediate community; Caring for strangers risks
+                 enabling dependency
+
+Generate 5 questions covering: love of neighbor beyond social group,
+caring for the vulnerable, compassion vs. strategic charity, caring
+for enemies, acts of kindness as spiritual discipline.
+
+======================================================================
+
+PILLAR 6: CITIZENSHIP
+Definition from source: "Citizenship includes civic virtues and
+duties that prescribe how we ought to behave as part of a community.
+The good citizen knows the laws and obeys them... volunteers and
+stays informed... does more than her fair share to make society work,
+now and for future generations."
+
+----------------------------------------------------------------------
+LAYER 2: BIBLICAL MAPPING FOR CITIZENSHIP
+
+Key passages:
+  - Romans 13:1-7 — Submission to governing authorities as
+    God-ordained; paying taxes; honoring those in authority
+  - Matthew 22:21 — "Render to Caesar the things that are Caesar's,
+    and to God the things that are God's"
+  - Jeremiah 29:7 — "Seek the welfare of the city where I have
+    sent you into exile, and pray to the Lord on its behalf, for
+    in its welfare you will find your welfare"
+  - Acts 5:29 — "We must obey God rather than men"
+    (limits of civic obedience)
+  - Proverbs 29:2 — "When the righteous increase, the people
+    rejoice, but when the wicked rule, the people groan"
+  - 1 Timothy 2:1-2 — Praying for rulers and those in authority
+
+Biblical principle: Biblical citizenship involves active engagement
+in the community's welfare, not passive compliance — combined with
+the understanding that civic authority has limits when it conflicts
+with God's commands.
+
+SAMPLE QUESTION STRUCTURE FOR CITIZENSHIP:
+  Stem: A scenario where a Christian is asked by their government
+        to do something that violates their conscience.
+  Correct answer: Acts 5:29 establishes that obedience to God takes
+                  precedence over civic authority when they conflict,
+                  though Romans 13 calls for general respect of law
+  Wrong answers: Christians must always obey government without
+                 exception; Civil disobedience is never justified;
+                 Christians have no civic obligations
+
+Generate 5 questions covering: obedience to governing authorities,
+limits of civic duty, seeking community welfare, civic engagement as
+Christian responsibility, paying taxes and honoring institutions.
+
+======================================================================
+QUESTION GENERATION INSTRUCTIONS
+======================================================================
+
+Using the Six Pillars framework (Layer 1) and biblical passages
+(Layer 2) above, generate exactly 30 multiple-choice objective
+questions for the Character-Biblical dimension.
+
+DISTRIBUTION: 5 questions per pillar × 6 pillars = 30 questions
+
+FORMAT for each question:
+  - Question stem: a realistic ethical scenario OR a direct knowledge
+    question about the biblical principle
+  - 4 answer choices (A, B, C, D)
+  - 1 correct answer that reflects biblical virtue ethics
+  - 3 plausible wrong answers representing common ethical errors
+    (e.g., moral relativism, self-interest, legalism, passivity)
+
+QUESTION TYPES — mix these within each pillar:
+  Type 1 — SCENARIO: "A Christian manager discovers that an employee
+            has been padding their expense reports. According to
+            biblical ethics, the most appropriate first response is..."
+  Type 2 — PRINCIPLE: "Which of the following best reflects the
+            biblical teaching on human dignity found in Genesis 1:27?"
+  Type 3 — APPLICATION: "According to the Parable of the Talents
+            (Matthew 25), which of the following best illustrates
+            faithful stewardship?"
+  Type 4 — CONTRAST: "Which response to a neighbor in need most
+            closely aligns with Jesus's teaching in Luke 10:25-37?"
+
+CRITICAL RULES:
+  1. Every question must have ONE clearly correct answer based on
+     biblical ethics — these are OBJECTIVE questions with right
+     answers
+  2. Wrong answers must be genuinely plausible — not obviously wrong
+  3. Vary the question type and difficulty within each pillar
+  4. Do not repeat the same scenario or biblical passage twice
+  5. The correct answer must be derivable from the biblical text
+     cited, not just general opinion
+  6. Keep scenarios realistic — workplace, family, community, personal
+     moral decisions
+  7. Do not make questions about doctrinal theology — focus on
+     applied ethics and virtue
+
+OUTPUT FORMAT: JSON array of objects, each with:
+{
+  "pillar": "Trustworthiness",
+  "question": "full question stem",
+  "choice_a": "...",
+  "choice_b": "...",
+  "choice_c": "...",
+  "choice_d": "...",
+  "answer": 0,   (0=A, 1=B, 2=C, 3=D — index of correct answer)
+  "answer_label": "A",
+  "context": "brief note on biblical passage tested"
+}
+
+Generate all 30 questions now.
+======================================================================
