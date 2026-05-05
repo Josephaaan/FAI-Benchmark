@@ -12,7 +12,7 @@ This project is an independent replication study of the **Flourishing AI (FAI) B
 
 Gloo's system applies tradition-based routing (e.g., "evangelical") on top of base models rather than traditional fine-tuning. This replication tests whether that routing layer meaningfully improves alignment with human flourishing dimensions beyond what the base model achieves on its own.
 
-This study is conducted independently. The authors maintain contact with Gloo for transparency, but the research design, question sets, and analysis are not sponsored or directed by Gloo.
+This study is conducted independently.
 
 ---
 
