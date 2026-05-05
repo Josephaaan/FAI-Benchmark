@@ -1,0 +1,155 @@
+id,dimension,model,question,correct_answer,raw_response,extracted,is_correct
+finance_obj_001,finance,gemini_2_5_flash,"A researcher tests for structural stability in the following regression model:
+
+$y_t = \beta_1 + \beta_2 x_{2t} + \beta_3 x_{3t} + u_t$
+
+The total sample of 200 observations is split exactly in half for the sub-sample regressions. Which would be the unrestricted residual sum of squares?",D,D,D,True
+finance_obj_002,finance,gemini_2_5_flash,Suppose that the Durbin Watson test is applied to a regression containing two explanatory variables plus a constant with 50 data points. The test statistic takes a value of 1.53. What is the appropriate conclusion?,D,D,D,True
+finance_obj_003,finance,gemini_2_5_flash,"Suppose that we have estimated a GARCH model for daily equity returns, and we are interested in producing a 10-day forecast of the volatility (measured by the standard deviation of returns) for use in a value at risk model. How could such a forecast most validly be calculated?",B,B,B,True
+finance_obj_004,finance,gemini_2_5_flash,"Which of the following statements are true concerning the acf and pacf?
+
+(i) The acf and pacf are often hard to interpret in practice
+
+(ii) The acf and pacf can be difficult to calculate for some data sets
+
+(iii) Information criteria represent an alternative approach to model order determination
+
+(iv) If applied correctly, the acf and pacf will always deliver unique model selections",C,B,B,False
+finance_obj_005,finance,gemini_2_5_flash,"Which of the following statements are true concerning maximum likelihood (ML) estimation in the context of GARCH models?
+
+i) Maximum likelihood estimation selects the parameter values that maximise the
+
+probability that we would have actually observed the values of the series y that we
+
+actually did.
+
+
+ii) GARCH models can only be estimated by ML and not by OLS
+
+
+iii) For estimation of a standard linear model (with no GARCH), the OLS and ML
+
+estimates for the slope and intercept parameters will be identical but the estimator
+
+for the variance of the disturbances is slightly different
+
+
+iv) Most computer packages use numerical procedures to estimate GARCH models
+
+rather than a set of analytical formulae",D,D,D,True
+finance_obj_006,finance,gemini_2_5_flash,"Which of the following is an equivalent expression for saying that the explanatory variable is ""non-stochastic""?",B,B,B,True
+finance_obj_007,finance,gemini_2_5_flash,"Under the null hypothesis of a Bera-Jarque test, the distribution has",B,B,B,True
+finance_obj_008,finance,gemini_2_5_flash,"Which of the following are alternative names for the dependent variable (usually denoted by y) in linear regression analysis?
+
+(i) The regressand
+
+(ii) The regressor
+
+(iii) The explained variable
+
+(iv) The explanatory variable",B,B,B,True
+finance_obj_009,finance,gemini_2_5_flash,"Which of the following are plausible approaches to dealing with residual autocorrelation?
+
+i) Take logarithms of each of the variables
+
+ii) Add lagged values of the variables to the regression equation
+
+iii) Use dummy variables to remove outlying observations
+
+iv) Try a model in first differenced form rather than in levels.",A,A,A,True
+finance_obj_010,finance,gemini_2_5_flash,Which one of the following is NOT an example of mis-specification of functional form?,D,D,D,True
+finance_obj_011,finance,gemini_2_5_flash,"Which of the following statements are true concerning the Box-Jenkins approach to diagnostic testing for ARMA models?
+
+(i) The tests will show whether the identified model is either too large or too small
+
+(ii) The tests involve checking the model residuals for autocorrelation, heteroscedasticity, and non-normality
+
+(iii) If the model suggested at the identification stage is appropriate, the acf and pacf for the residuals should show no additional structure
+
+(iv) If the model suggested at the identification stage is appropriate, the coefficients on the additional variables under the overfitting approach will be statistically insignificant",A,D,D,False
+finance_obj_012,finance,gemini_2_5_flash,"Which of the following are disadvantages of the Dickey-Fuller / Engle-Granger approach to testing for cointegration and modelling cointegrating relationships?
+
+i) Only one cointegrating relationship can be estimated
+
+ii) Particularly for small samples. There is a high chance of the tests suggestingthat variables are not cointegrated when they are
+
+iii) It is not possible to make inferences on the cointegrating regression
+
+iv) The procedure forces the researcher to specify which is the dependent variable and which are the independent variables.",D,D,D,True
+finance_obj_013,finance,gemini_2_5_flash,"If OLS is applied separately to each equation that is part of a simultaneous system, the resulting estimates will be",C,C,C,True
+finance_obj_014,finance,gemini_2_5_flash,"Which of the following statements are true concerning the standardised residuals (residuals divided by their respective conditional standard deviations) from an estimated GARCH model?
+
+i) They are assumed to be normally distributed
+
+
+ii) Their squares will be related to their lagged squared values if the GARCH model is
+
+appropriate
+
+
+iii) In practice, they are likely to have fat tails
+
+
+iv) If the GARCH model is adequate, the standardised residuals and the raw residuals
+
+will be identical",B,C,C,False
+finance_obj_015,finance,gemini_2_5_flash,"Which of the following statements are correct concerning the use of antithetic variates as part of a Monte Carlo experiment?
+
+i) Antithetic variates work by reducing the number of replications required to cover the whole probability space
+
+ii) Antithetic variates involve employing a similar variable to that used in the simulation, but whose properties are known analytically
+
+iii) Antithetic variates involve using the negative of each of the random draws and repeating the experiment using those values as the draws
+
+iv) Antithetic variates involve taking one over each of the random draws and repeating the experiment using those values as the draws",B,B,B,True
+finance_obj_016,finance,gemini_2_5_flash,Which one of the following criticisms of the Dickey-Fuller/Engle-Granger approach to dealing with cointegrated variables is overcome by the Engle-Yoo (EY) procedure?,D,C,C,False
+finance_obj_017,finance,gemini_2_5_flash,Consider a series that follows an MA(1) with zero mean and a moving average coefficient of 0.4. What is the value of the autocovariance at lag 1?,D,D,D,True
+finance_obj_018,finance,gemini_2_5_flash,Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)?,C,C,C,True
+finance_obj_019,finance,gemini_2_5_flash,Which of the following statements is true concerning the population regression function (PRF) and sample regression function (SRF)?,D,D,D,True
+finance_obj_020,finance,gemini_2_5_flash,"Consider the following sample autocorrelation estimates obtained using 250 data points:
+
+1) Lag 1 2 3
+
+2) Coefficient 0.2 -0.15 -0.1
+
+3) Assuming that the coefficients are approximately normally distributed, which of the coefficients are statistically significant at the 5% level?",B,B,B,True
+finance_obj_021,finance,gemini_2_5_flash,Automatic or built-in stabilizers,D,D,D,True
+finance_obj_022,finance,gemini_2_5_flash,A budget deficit exists when,B,B,B,True
+finance_obj_023,finance,gemini_2_5_flash,Sue loses her job at a shoe factory when the economy falls into a recession. Sue is,B,B,B,True
+finance_obj_024,finance,gemini_2_5_flash,Suppose that current disposable income is $10000 and consumption spending is $8000. For every $100 increase in disposable income saving increases $10. Given this information,C,C,C,True
+finance_obj_025,finance,gemini_2_5_flash,According to Say's law,D,D,D,True
+finance_obj_026,finance,gemini_2_5_flash,Suppose that Tiger Woods buys a golf ball in England for $1 and the marginal propensity to consume in England is 0.75. What is the total increase in England's real GDP resulting from Mr. Woods' purchase?,D,D,D,True
+finance_obj_027,finance,gemini_2_5_flash,Which of the following is equal to one?,D,D,D,True
+finance_obj_028,finance,gemini_2_5_flash,A policy supported by supply-side economists would be,B,B,B,True
+finance_obj_029,finance,gemini_2_5_flash,Which of the following would reduce economic growth?,A,A,A,True
+finance_obj_030,finance,gemini_2_5_flash,According to Keynesian analysis the Great Depression was caused by,A,A,A,True
+finance_obj_031,finance,gemini_2_5_flash,What is the main contrast between the short-run and long-run Phillips curve?,D,D,D,True
+finance_obj_032,finance,gemini_2_5_flash,Stagflation is the result of,A,A,A,True
+finance_obj_033,finance,gemini_2_5_flash,If nominal GDP equals $5000 and real GDP equals $4000 then the GDP Deflator equals,A,A,A,True
+finance_obj_034,finance,gemini_2_5_flash,It is unlikely that the unemployment rate will ever fall to zero because of,A,A,A,True
+finance_obj_035,finance,gemini_2_5_flash,When a bank's balance sheet shows that the bank has excess reserves,B,B,B,True
+finance_obj_036,finance,gemini_2_5_flash,Which of the following is not included in MI?,D,D,D,True
+finance_obj_037,finance,gemini_2_5_flash,U.S. real GDP most likely falls when,D,D,D,True
+finance_obj_038,finance,gemini_2_5_flash,A difference between M1 and M2 is that,C,C,C,True
+finance_obj_039,finance,gemini_2_5_flash,According to Keynesian economists,B,B,B,True
+finance_obj_040,finance,gemini_2_5_flash,In the last 20 years firms that produce cameras have begun to produce fewer 35-mm cameras and more digital cameras. This trend is an example of,C,C,C,True
+finance_obj_041,finance,gemini_2_5_flash,Which of the following statements is true for a firm in a perfectly competitive industry?,D,D,D,True
+finance_obj_042,finance,gemini_2_5_flash,A competitive firm's demand for labor is determined directly by,D,D,D,True
+finance_obj_043,finance,gemini_2_5_flash,"Elsa values her time at $50 per hour, and tutors David for two hours. David is willing to pay $175 for two hours of tutoring, but they negotiate a price of $125 for the entire two hours. Which of the following statements is true about the transaction above:",D,A,A,False
+finance_obj_044,finance,gemini_2_5_flash,"Firms with the following market structure(s) maximize profits by producing where marginal cost equals marginal revenue, if at all. I. Perfect competition II. Oligopoly III. Monopoly IV. Monopolistic competition",D,D,D,True
+finance_obj_045,finance,gemini_2_5_flash,Good X is exchanged in a competitive market. Which of the following is true if an excise tax is now imposed on the production of good X?,D,D,D,True
+finance_obj_046,finance,gemini_2_5_flash,"Relative to a competitive input market, a monopsony",D,D,D,True
+finance_obj_047,finance,gemini_2_5_flash,Monopolistic competition is said to be productively inefficient because,A,A,A,True
+finance_obj_048,finance,gemini_2_5_flash,"With the presence of a positive externality, which of the following would correct the externality?",A,A,A,True
+finance_obj_049,finance,gemini_2_5_flash,You are told that the income elasticity for DVDs is + 1.5. This means that,A,A,A,True
+finance_obj_050,finance,gemini_2_5_flash,"Education makes Chris a better worker, voter, parent, and citizen. Because the benefits from education go beyond those that Chris enjoys himself, education provides",D,D,D,True
+finance_obj_051,finance,gemini_2_5_flash,The elasticity of supply is typically greater when,D,D,D,True
+finance_obj_052,finance,gemini_2_5_flash,A monopoly is less efficient than a perfect competitor because,B,B,B,True
+finance_obj_053,finance,gemini_2_5_flash,The market demand curve for labor will shift to the right when,A,A,A,True
+finance_obj_054,finance,gemini_2_5_flash,Which of the following is most likely to result in a shift to the right in the demand curve for orange juice?,D,D,D,True
+finance_obj_055,finance,gemini_2_5_flash,"With respect to the kinked demand curve, which of the following is NOT correct?",D,D,D,True
+finance_obj_056,finance,gemini_2_5_flash,"In a perfectly competitive market, a firm maximizes profit by producing the quantity at which:",B,B,B,True
+finance_obj_057,finance,gemini_2_5_flash,A bilateral monopoly exists when,A,A,A,True
+finance_obj_058,finance,gemini_2_5_flash,Which of the following is true about a price floor?,C,C,C,True
+finance_obj_059,finance,gemini_2_5_flash,"If firms are entering an industry that is monopolistically competitive, we would expect",D,D,D,True
+finance_obj_060,finance,gemini_2_5_flash,Which of the following is an example of a long-run adjustment for the owners of a small café?,D,D,D,True

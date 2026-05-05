@@ -1,0 +1,61 @@
+id,dimension,model,question,correct_answer,raw_response,extracted,is_correct
+meaning_obj_001,meaning,claude_sonnet_4_5,Prejudice or bias against older adults is referred to as,A,A,A,True
+meaning_obj_002,meaning,claude_sonnet_4_5,The insurance program for poor people of all ages is called,B,B,B,True
+meaning_obj_003,meaning,claude_sonnet_4_5,An increased frequency of urination in older adults is most likely caused by,B,B,B,True
+meaning_obj_004,meaning,claude_sonnet_4_5,"With respect to job training, younger workers",A,A,A,True
+meaning_obj_005,meaning,claude_sonnet_4_5,The different components of memory should be thought of as,C,C,C,True
+meaning_obj_006,meaning,claude_sonnet_4_5,The most frequent chronic condition for older adults is,B,B,B,True
+meaning_obj_007,meaning,claude_sonnet_4_5,Comorbidity is a problem for older adults because it,A,A,A,True
+meaning_obj_008,meaning,claude_sonnet_4_5,Older adults may be more attached to a place than younger adults because,A,A,A,True
+meaning_obj_009,meaning,claude_sonnet_4_5,The docility hypothesis is that,A,B,B,False
+meaning_obj_010,meaning,claude_sonnet_4_5,"According to research on memory, which of the following best describes how memories are stored?",B,B,B,True
+meaning_obj_011,meaning,claude_sonnet_4_5,Which of the following does NOT increase the risk of falling?,C,C,C,True
+meaning_obj_012,meaning,claude_sonnet_4_5,Validation therapy refers to treatments in which the person with dementia,B,B,B,True
+meaning_obj_013,meaning,claude_sonnet_4_5,"According to Erik Erikson's theory of psychosocial development, the primary conflict faced in late adulthood is:",A,A,A,True
+meaning_obj_014,meaning,claude_sonnet_4_5,The term Baby Boom Generation refers to people who,C,C,C,True
+meaning_obj_015,meaning,claude_sonnet_4_5,"If we found that adult age was significantly and positively correlated with consumption of herbal teas, we could conclude that",D,D,D,True
+meaning_obj_016,meaning,claude_sonnet_4_5,"All other things being equal, which of the following persons is likely to live the longest?",D,D,D,True
+meaning_obj_017,meaning,claude_sonnet_4_5,One line of evidence against antagonistic pleiotropy is that,A,B,B,False
+meaning_obj_018,meaning,claude_sonnet_4_5,Older married men have been found to have,D,D,D,True
+meaning_obj_019,meaning,claude_sonnet_4_5,The woman who conducted a longitudinal study on herself and found increased retrieval difficulty as she got older was named,B,C,C,False
+meaning_obj_020,meaning,claude_sonnet_4_5,Middle-aged adults appear to be more ____ than older or younger adults,A,A,A,True
+meaning_obj_021,meaning,claude_sonnet_4_5,Surveys of older adults who are living together show that they tend to view cohabitation as,B,B,B,True
+meaning_obj_022,meaning,claude_sonnet_4_5,A researcher finds that age is negatively correlated with cigarette smoking; this means that,C,C,C,True
+meaning_obj_023,meaning,claude_sonnet_4_5,Most people who have used physician assisted suicide have had,B,B,B,True
+meaning_obj_024,meaning,claude_sonnet_4_5,Human factors examines the performance of different tasks by examining,B,B,B,True
+meaning_obj_025,meaning,claude_sonnet_4_5,Some work on age stereotypes suggests that,B,B,B,True
+meaning_obj_026,meaning,claude_sonnet_4_5,With respect to hair loss,B,B,B,True
+meaning_obj_027,meaning,claude_sonnet_4_5,The dementia that results from a long-term deficiency of thiamine is one type of ____ dementia,B,B,B,True
+meaning_obj_028,meaning,claude_sonnet_4_5,Information coming into our cognitive system is thought to first enter a,A,A,A,True
+meaning_obj_029,meaning,claude_sonnet_4_5,About how many grieving individuals seem to require some professional help?,B,B,B,True
+meaning_obj_030,meaning,claude_sonnet_4_5,Which of the following is NOT one of the more frequently named activities by those who are retired?,C,A,A,False
+meaning_obj_031,meaning,claude_sonnet_4_5,Which of the following assessment measures is not used to assess symptom validity or malingering?,B,B,B,True
+meaning_obj_032,meaning,claude_sonnet_4_5,"One Friday afternoon, just before leaving on a weekend tip, a psychologist receives a call from a therapy client who claims to have taken an overdose of pills in a suicide attempt. The psychologist: tells the client to call a physician immediately and to come in at 9:00 A.M. on Monday for a session. The psychologist makes no other attempt to intervene, and the client dies later that evening without making any other calls for assistance. In this situation, the psychologist's behavior was clearly",A,A,A,True
+meaning_obj_033,meaning,claude_sonnet_4_5,Family therapy is probably contraindicated in which of the following situations?,C,C,C,True
+meaning_obj_034,meaning,claude_sonnet_4_5,"In Gestalt therapy, transference is usually",A,A,A,True
+meaning_obj_035,meaning,claude_sonnet_4_5,"While treating a client, you decide that you want to consult with a colleague to discuss a specific aspect of the case that is giving you trouble. According to APA’s Ethics Code and the Canadian Code of Ethics:",B,B,B,True
+meaning_obj_036,meaning,claude_sonnet_4_5,American Psychological Association?,C,A,A,False
+meaning_obj_037,meaning,claude_sonnet_4_5,__________ memory is the aspect of memory that is involved in the recall of information acquired within the past few hours to days.,C,C,C,True
+meaning_obj_038,meaning,claude_sonnet_4_5,What is termed “catharsis” in psychoanalytic theory might be described by behaviorists as,C,C,C,True
+meaning_obj_039,meaning,claude_sonnet_4_5,Feminist therapy is characterized by all of the following except,B,B,B,True
+meaning_obj_040,meaning,claude_sonnet_4_5,Object relations therapy is similar to Freudian psychodynamic therapy in its primary focus on,C,C,C,True
+meaning_obj_041,meaning,claude_sonnet_4_5,"According to Kubler-Ross, when a terminally ill patient is informed of his/her condition, the patient's initial reaction will likely be",B,B,B,True
+meaning_obj_042,meaning,claude_sonnet_4_5,A psychologist is designing a study that will investigate the impact of age on intelligence. The results of the psychologist’s study will most likely indicate that intelligence test scores begin to decline in early adulthood if she uses which of the following research designs?,B,B,B,True
+meaning_obj_043,meaning,claude_sonnet_4_5,Self-control procedures such as those used for controlling alcohol abuse are most easily implemented,B,A,A,False
+meaning_obj_044,meaning,claude_sonnet_4_5,A 20-month old clings nervously to her mother and does not want to explore a new play environment. She suddenly pushes her mother away and does not engage in any hugs her mother tries to give her. The infant’s facial expression shows anxiety but she looks away from her mother. The mother turns away from the baby as well. This child most likely has which type of attachment to her mother?,C,D,D,False
+meaning_obj_045,meaning,claude_sonnet_4_5,The 1976 Tarasoff decision established:,B,B,B,True
+meaning_obj_046,meaning,claude_sonnet_4_5,Which of the following is NOT a component of Weiner’s attributional style theory?,C,C,C,True
+meaning_obj_047,meaning,claude_sonnet_4_5,"According to Harry Stack Sullivan, which of the following cognitive experiences characterizes schizophrenic behavior:",C,C,C,True
+meaning_obj_048,meaning,claude_sonnet_4_5,Anxiety induced by reading about an automobile accident some months after having had such an accident best described as an instance of,A,B,B,False
+meaning_obj_049,meaning,claude_sonnet_4_5,The INTER-SCORER RELIABILITY is used for essay tests or behavioral observation scales and usually involves a coefficient between rater’s scores. What is the Kappa Coefficient?,A,A,A,True
+meaning_obj_050,meaning,claude_sonnet_4_5,"Behaviorist views have been criticized by other approaches for a number of reasons. Ethologists argued that the behaviorists ignored innate, built-in biases in learning due to evolution, but also disagreed with:",A,A,A,True
+meaning_obj_051,meaning,claude_sonnet_4_5,Hypnosis is best described as a response to suggestion involving:,B,B,B,True
+meaning_obj_052,meaning,claude_sonnet_4_5,The Standard for Educational and Psychological Testing provides,C,C,C,True
+meaning_obj_053,meaning,claude_sonnet_4_5,"Awareness that traditional healers (e.g., shamans, curanderos, expititistas) have an important place in many minority communities would suggest that",A,A,A,True
+meaning_obj_054,meaning,claude_sonnet_4_5,You are a consultant asked to design an intervention program in a recently integrated housing project where antagonism and hostility between old and new residents are extremely high. The goal is to improve relations through contact. You would be more likely to facilitate that goal if you could arrange interactions that provide opportunities,D,D,D,True
+meaning_obj_055,meaning,claude_sonnet_4_5,Any substance that can have a negative impact on fetal development is ___________.,B,B,B,True
+meaning_obj_056,meaning,claude_sonnet_4_5,"When preparing a psychological testing report, a psychologist is ethically bound to include",B,B,B,True
+meaning_obj_057,meaning,claude_sonnet_4_5,The following measure of general cognitive abilities would be most appropriate for use with a nonverbal adolescent:,B,B,B,True
+meaning_obj_058,meaning,claude_sonnet_4_5,"Frustration always leads to aggression/aggression always predicated by frustration. What does the CATHARSIS THEORY states in this issue, but is unsupported by research?",A,A,A,True
+meaning_obj_059,meaning,claude_sonnet_4_5,Tonic-clonic seizures most frequently occur in which type of epilepsy,C,C,C,True
+meaning_obj_060,meaning,claude_sonnet_4_5,Which of the following is NOT true about the difference between traditional research and program evaluation?,B,B,B,True

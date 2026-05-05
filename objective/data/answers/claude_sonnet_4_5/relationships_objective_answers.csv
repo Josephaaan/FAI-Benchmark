@@ -1,0 +1,61 @@
+id,dimension,model,question,correct_answer,raw_response,extracted,is_correct
+relationships_obj_001,relationships,claude_sonnet_4_5,The term 'over-urbanization' means that:,B,B,B,True
+relationships_obj_002,relationships,claude_sonnet_4_5,The print revolution of the nineteenth century resulted in:,A,A,A,True
+relationships_obj_003,relationships,claude_sonnet_4_5,Which of the following is not a 'research purpose'?,A,D,D,False
+relationships_obj_004,relationships,claude_sonnet_4_5,"Leroy visits his parents, who live in a primarily African American working-class neighborhood. During his visit, he notices that the community is changing. Several developments have been built to accommodate single-family homes, and upscale shopping centers have been added. While Leroy appreciates these changes, he is worried that his parents will not be able to afford to continue living in their neighborhood because property values are rising. Which of the following best explains what is happening to Leroy's old neighborhood?",A,A,A,True
+relationships_obj_005,relationships,claude_sonnet_4_5,The ecological approach to urban sociology involved studying:,A,A,A,True
+relationships_obj_006,relationships,claude_sonnet_4_5,One of the ethical problems with covert participant observation is:,B,B,B,True
+relationships_obj_007,relationships,claude_sonnet_4_5,The terms 'crisis of the 1970s' is used to refer to:,A,A,A,True
+relationships_obj_008,relationships,claude_sonnet_4_5,Robert and Tanya are married and live with their three children. Their family unit is called,B,B,B,True
+relationships_obj_009,relationships,claude_sonnet_4_5,Booth's (1901) study revealed that the percentage of people in London who were living in poverty was:,A,A,A,True
+relationships_obj_010,relationships,claude_sonnet_4_5,The 'nuclear family' means:,D,D,D,True
+relationships_obj_011,relationships,claude_sonnet_4_5,Economic aid has largely failed to promote modernization in the developing countries because:,C,C,C,True
+relationships_obj_012,relationships,claude_sonnet_4_5,Weber said that the 'spirit of capitalism' could be traced back to:,D,D,D,True
+relationships_obj_013,relationships,claude_sonnet_4_5,Pluralist theories suggest that:,C,C,C,True
+relationships_obj_014,relationships,claude_sonnet_4_5,Social norms are:,D,D,D,True
+relationships_obj_015,relationships,claude_sonnet_4_5,The general fertility rate fell between 1964 and 2000 because of:,A,A,A,True
+relationships_obj_016,relationships,claude_sonnet_4_5,Mosca and Pareto identified the ruling elite as:,D,D,D,True
+relationships_obj_017,relationships,claude_sonnet_4_5,The 'correspondence principle' (Bowles & Gintis) suggests that:,A,A,A,True
+relationships_obj_018,relationships,claude_sonnet_4_5,Bourdieu attributed the reproduction of class to:,C,C,C,True
+relationships_obj_019,relationships,claude_sonnet_4_5,Marx said that the development of the labour movement through factory-based production would turn the working class into:,C,C,C,True
+relationships_obj_020,relationships,claude_sonnet_4_5,The rise of new social movements indicates that:,D,C,C,False
+relationships_obj_021,relationships,claude_sonnet_4_5,The 'decentralized city' can be identified by:,D,A,A,False
+relationships_obj_022,relationships,claude_sonnet_4_5,"Religious organizations such as the Church of Norway, Islam, the Church of England, and the Church of Greece have which of the following characteristics in common?",D,D,D,True
+relationships_obj_023,relationships,claude_sonnet_4_5,Anti-psychiatrists like Laing & Esterson believed that:,D,D,D,True
+relationships_obj_024,relationships,claude_sonnet_4_5,Marx proclaimed that religion would disappear when:,B,B,B,True
+relationships_obj_025,relationships,claude_sonnet_4_5,Millions of immigrant children who entered the United States learned English and the duties of citizenship while attending public schools in the communities in which they settled. This is an example of which of the following sociological concepts?,A,A,A,True
+relationships_obj_026,relationships,claude_sonnet_4_5,The shift from custodial to joint parenthood after divorce means that:,C,C,C,True
+relationships_obj_027,relationships,claude_sonnet_4_5,Law and order was privatized in the 1980s and 1990s through:,D,D,D,True
+relationships_obj_028,relationships,claude_sonnet_4_5,Which of the following policies did the New Labour government not pursue?,C,C,C,True
+relationships_obj_029,relationships,claude_sonnet_4_5,Ethnic identity refers to:,B,B,B,True
+relationships_obj_030,relationships,claude_sonnet_4_5,The trend of decarceration involves:,A,A,A,True
+relationships_obj_031,relationships,claude_sonnet_4_5,Which of the following approaches to psychotherapy focuses only the problem behaviour and how to modify it?,A,A,A,True
+relationships_obj_032,relationships,claude_sonnet_4_5,Which of the following is the most common method of birth control for married couples in the U.S..,A,A,A,True
+relationships_obj_033,relationships,claude_sonnet_4_5,"________ men, on the average, begin engaging in sexual intercourse approximately two years later than ________ men do.",A,B,B,False
+relationships_obj_034,relationships,claude_sonnet_4_5,"What makes a relationships last, according to Sternberg?",B,B,B,True
+relationships_obj_035,relationships,claude_sonnet_4_5,"Danny and Sandy are coworkers. Sandy sees Danny in the break room and says ""Hey Stud! Nice buns! Wanna do it?"" This would be considered harrassment if:",D,D,D,True
+relationships_obj_036,relationships,claude_sonnet_4_5,Buffy and Willow were discussing their sexual fantasies. Buffy revealed that she sometimes fantasizes about sex with other women even though she normally finds herself attracted to men. She also fantasizes about group sex. Which of the following statements can be inferred from Buffy's fantasies?,D,D,D,True
+relationships_obj_037,relationships,claude_sonnet_4_5,What are the experiences when a sexual addict has completed the sexual act?,A,A,A,True
+relationships_obj_038,relationships,claude_sonnet_4_5,We are attracted to a person who is similar to us in attitudes because:,D,D,D,True
+relationships_obj_039,relationships,claude_sonnet_4_5,Freud said that the penis first becomes the major focus of pleasure-seeking at:,C,C,C,True
+relationships_obj_040,relationships,claude_sonnet_4_5,Mike and Carol have been married for 5 years. Recently Mike has found that although he wants to have sex with Carol he has trouble getting aroused. However he does not have trouble getting aroused when he sees his secretary at work. Which of the following describe(s) Mike's dysfunction?,B,B,B,True
+relationships_obj_041,relationships,claude_sonnet_4_5,The zona pellucida is...,A,A,A,True
+relationships_obj_042,relationships,claude_sonnet_4_5,__________ occurs when the fertilized egg implants somewhere other than the uterus.,B,B,B,True
+relationships_obj_043,relationships,claude_sonnet_4_5,The position that abortion is murder is held by certain people in which religion?,D,D,D,True
+relationships_obj_044,relationships,claude_sonnet_4_5,Roman Catholicism takes the position that it is sinful to,D,D,D,True
+relationships_obj_045,relationships,claude_sonnet_4_5,One of the first models of the physiology of the human sexual response was provided by,D,D,D,True
+relationships_obj_046,relationships,claude_sonnet_4_5,Kenny fell off a ladder while trying to change a lightbulb. He suffered an injury his upper back transecting his spinal cord and leaving him quadraplegic. Which of the following are probably impaired in Kenny?,D,D,D,True
+relationships_obj_047,relationships,claude_sonnet_4_5,Which of the following sexual variations is probably the most dangerous?,B,B,B,True
+relationships_obj_048,relationships,claude_sonnet_4_5,"From 1988 to 1990 among heterosexuals in the US, the number of unmarried adults aged 20 to 45 who report having multiple partners has:",A,A,A,True
+relationships_obj_049,relationships,claude_sonnet_4_5,Fetishism typically develops at the age of:,C,C,C,True
+relationships_obj_050,relationships,claude_sonnet_4_5,"According to John Money, __________ refers to a person's private internal sense of maleness or femaleness.",A,A,A,True
+relationships_obj_051,relationships,claude_sonnet_4_5,Hillary just found out that she is pregnant but she suspects that her husband has been fooling around. It is important that she be tested for chlamydia because chlamydia can cause which of the following complications?,D,D,D,True
+relationships_obj_052,relationships,claude_sonnet_4_5,Research on the effects of sexually explicit material using material that the viewer finds acceptable has shown that:,B,B,B,True
+relationships_obj_053,relationships,claude_sonnet_4_5,"After releasing an egg, the follicle, under stimulation of luteinizing hormone, turns into a a glandular mass of cells called the __________",B,B,B,True
+relationships_obj_054,relationships,claude_sonnet_4_5,Erection in the male and vaginal lubrication in the female mark the __________ stage of sexual response.,A,A,A,True
+relationships_obj_055,relationships,claude_sonnet_4_5,The onset (the very beginning) of labor is first triggered by,C,C,C,True
+relationships_obj_056,relationships,claude_sonnet_4_5,Approximately how many sperm are in the typical ejaculate?,B,B,B,True
+relationships_obj_057,relationships,claude_sonnet_4_5,Which of the following is the MOST COMMON menstrual problem?,A,A,A,True
+relationships_obj_058,relationships,claude_sonnet_4_5,The follicular phase is to the __________ as the luteal phase is to the secretory phase.,C,C,C,True
+relationships_obj_059,relationships,claude_sonnet_4_5,Judaism regards sexuality as,C,C,C,True
+relationships_obj_060,relationships,claude_sonnet_4_5,Mini-pills contain:,B,B,B,True

@@ -1,0 +1,61 @@
+id,dimension,model,question,correct_answer,raw_response,extracted,is_correct
+happiness_obj_001,happiness,claude_sonnet_4_5,"As an experiment, a group of newborn kittens was allowed to see through only one eye at a time. Each day one of the eyes would be covered, switching between the two eyes on subsequent days. Which of the following best describes the visual limitations experienced by these cats as adults?",D,D,D,True
+happiness_obj_002,happiness,claude_sonnet_4_5,The tendency of young children learning language to overuse the rules of syntax is referred to as,C,C,C,True
+happiness_obj_003,happiness,claude_sonnet_4_5,"A participant in a single-trial free-recall task is presented with a list of words, one at a time, in the following order: house, flower, dog, table, license, water, computer, salad. In accord with the serial position curve, which of the following words is the participant most likely to forget?",D,D,D,True
+happiness_obj_004,happiness,claude_sonnet_4_5,Julie is more alert in the morning and her brother Jack is more alert in the afternoon. This difference stems from a difference in the siblings',B,B,B,True
+happiness_obj_005,happiness,claude_sonnet_4_5,Which of the following is not a basic somatosensation?,D,D,D,True
+happiness_obj_006,happiness,claude_sonnet_4_5,"Brenda gets enraged when people criticize her, talks about becoming the first woman president, exaggerates her abilities and talents, takes advantage of classmates, and constantly demands attention in class. When she received a certificate for participating in an essay contest, she told everyone she'd won a prestigious writing award. She most likely would be diagnosed as evidencing",D,D,D,True
+happiness_obj_007,happiness,claude_sonnet_4_5,Which of the following best states why the study of twins is significant to the field of behavioral genetics?,D,D,D,True
+happiness_obj_008,happiness,claude_sonnet_4_5,The driver of a car that has pulled up next to you at a red light turns up the volume on her radio. The increase in perceived sound that you experience is primarily due to,D,D,D,True
+happiness_obj_009,happiness,claude_sonnet_4_5,"According to Kohlberg, in order to reason at the postconventional level, people must",C,C,C,True
+happiness_obj_010,happiness,claude_sonnet_4_5,What color are the shortest electromagnetic waves humans can see?,B,B,B,True
+happiness_obj_011,happiness,claude_sonnet_4_5,Which of the following is not considered a primary facial expression?,A,D,D,False
+happiness_obj_012,happiness,claude_sonnet_4_5,A fetus with the genotype XXY will most likely,B,B,B,True
+happiness_obj_013,happiness,claude_sonnet_4_5,"According to Dr. William Sears, noted authority on infants and child-rearing, infant brain development is, in part, influenced by longer and more frequent periods of active sleeping and dreaming or",A,A,A,True
+happiness_obj_014,happiness,claude_sonnet_4_5,"When first born, humans' dominant sense is",D,C,C,False
+happiness_obj_015,happiness,claude_sonnet_4_5,"According to the position statement Supervision in School Psychology published by the National Association of School Psychologists (NASP), which of the following is most accurate concerning school psychologists who will be supervising in a school district?",D,D,D,True
+happiness_obj_016,happiness,claude_sonnet_4_5,Abnormal behavior can be defined as maladaptive behavior according to,B,B,B,True
+happiness_obj_017,happiness,claude_sonnet_4_5,"In the rock opera Tommy, Tommy becomes deaf and blind after witnessing a terrible murder, although there is nothing organically wrong with his ears or eyes. Tommy is suffering from",C,C,C,True
+happiness_obj_018,happiness,claude_sonnet_4_5,Disorganized language like clang associations or neologisms is associated with,B,B,B,True
+happiness_obj_019,happiness,claude_sonnet_4_5,"A school psychologist is providing feedback to a student's parents regarding the student's performance on a measure of academic achievement. To explain the concept of grade equivalent, the school psychologist should explain that it is",A,A,A,True
+happiness_obj_020,happiness,claude_sonnet_4_5,An unjustifiable and usually negative attitude toward a group and its members is called,A,A,A,True
+happiness_obj_021,happiness,claude_sonnet_4_5,Which of the following accurately summarizes a depressed person's view according to Aaron Beck's negative triad theory?,C,C,C,True
+happiness_obj_022,happiness,claude_sonnet_4_5,"Jared thinks that going to psychology lecture classes is a waste of time and that you can do just as well in the course if you just read the review book, watch ""Discovering Psychology,"" and take the tests. He decides to test his hypothesis with an experiment. The independent variable in his experiment is",C,A,A,False
+happiness_obj_023,happiness,claude_sonnet_4_5,"In general, the best presentation time between the conditioned stimulus and unconditioned stimulus to produce classical conditioning is",A,A,A,True
+happiness_obj_024,happiness,claude_sonnet_4_5,Which of the following is the best example of an attribute that is culturally-based rather than primarily psychologically-based?,B,B,B,True
+happiness_obj_025,happiness,claude_sonnet_4_5,The perceived volume of a tone is mainly determined by its,C,C,C,True
+happiness_obj_026,happiness,claude_sonnet_4_5,"In daylight, objects that reflect all wavelengths of light appear",B,B,B,True
+happiness_obj_027,happiness,claude_sonnet_4_5,An artist doing a pencil drawing could use which of the following techniques to add depth to her or his drawing?,D,D,D,True
+happiness_obj_028,happiness,claude_sonnet_4_5,The contingency model explains classical conditioning from which of the following perspectives?,C,C,C,True
+happiness_obj_029,happiness,claude_sonnet_4_5,"After sending a decal to display on a window and greeting cards with its logo, a charity sent the same people envelopes requesting contributions. Many people send contributions. The charity is using a technique known as",B,B,B,True
+happiness_obj_030,happiness,claude_sonnet_4_5,The smallest unit of language that carries meaning is a,D,D,D,True
+happiness_obj_031,happiness,claude_sonnet_4_5,You are a psychologist in a state/province that grants the right of privileged communication to clients of psychologist. The attorney of the spouse of a client you are seeing requests that you testify in their divorce hearing. What is the most appropriate course of action if divorce is not specifically covered under the privilege law,A,A,A,True
+happiness_obj_032,happiness,claude_sonnet_4_5,Standardized tests or measures that compare an examinee’s performance to the performance of a specified group of participants are:,D,D,D,True
+happiness_obj_033,happiness,claude_sonnet_4_5,"Current legal and ethical standards require that a treatment record be kept for each patient. At the minimum, this treatment record should include",B,B,B,True
+happiness_obj_034,happiness,claude_sonnet_4_5,The psychology licensing exam (EPPP) is best described as:,B,B,B,True
+happiness_obj_035,happiness,claude_sonnet_4_5,"Although concurrent individual and group therapy may be necessary for some patients, many therapists do not support it. One of the major concerns is that",B,B,B,True
+happiness_obj_036,happiness,claude_sonnet_4_5,The Standard for Educational and Psychological Testing provides,C,C,C,True
+happiness_obj_037,happiness,claude_sonnet_4_5,An organizational psychologist would most likely recommend the use of vestibule training for which of the following jobs?,A,A,A,True
+happiness_obj_038,happiness,claude_sonnet_4_5,"In most situations, the “holder of the privilege” is:",B,B,B,True
+happiness_obj_039,happiness,claude_sonnet_4_5,Statistical regression is a potential threat to a study’s internal validity when:,C,C,C,True
+happiness_obj_040,happiness,claude_sonnet_4_5,Children typically take their first steps around the age of,C,C,C,True
+happiness_obj_041,happiness,claude_sonnet_4_5,The primary advantage of the forced-choice distribution of rated attributes in performance appraisal is that it,B,B,B,True
+happiness_obj_042,happiness,claude_sonnet_4_5,"For a Gestalt therapist, a primary goal of treatment is to help the client:",B,B,B,True
+happiness_obj_043,happiness,claude_sonnet_4_5,Down Syndrome is caused by:,C,C,C,True
+happiness_obj_044,happiness,claude_sonnet_4_5,The flaw in Anderson’s ACT theory was that some considered it ___________.,B,B,B,True
+happiness_obj_045,happiness,claude_sonnet_4_5,"________ racism is occurring when members of minority groups consistently have less access than members of the majority group to quality education, good jobs, appropriate medical care, and adequate housing.",C,C,C,True
+happiness_obj_046,happiness,claude_sonnet_4_5,Nonverbal and primarily nonculturally biased abilities are referred to as:,A,A,A,True
+happiness_obj_047,happiness,claude_sonnet_4_5,Research on second-language acquisition has shown which of the following about children who acquire a second language,D,D,D,True
+happiness_obj_048,happiness,claude_sonnet_4_5,"A ten-year-old boy, tested with a paper-and-pencil intelligence test, obtained an IQ score of 130. Two years later, he was tested with an alternate form of the same test. Most likely, the obtained score on the second testing would be",B,B,B,True
+happiness_obj_049,happiness,claude_sonnet_4_5,"In contrast to traditional approaches to psychotherapy, culturally sensitive approaches attempt to understand a client’s experience of an illness within the client’s cultural context. In other words, culturally sensitive approaches adopt an ______ perspective.",A,A,A,True
+happiness_obj_050,happiness,claude_sonnet_4_5,"As director and practicing professional psychologist for a North American Indian mental health center on a reservation, which of the following programmatic efforts should you incorporate into your culturally sensitive model of mental health care",A,A,A,True
+happiness_obj_051,happiness,claude_sonnet_4_5,Psychologist’s 35-year-old patient admits to sexually molesting a nine-year-old child in the neighborhood. This patient has prior history of such behavior. The psychologist should,A,A,A,True
+happiness_obj_052,happiness,claude_sonnet_4_5,A supervisor attempts to increase his inﬂuence by being sensitive to the needs of his subordinates and by acting as a role model. This supervisor is relying on which of the bases of power identiﬁed by French and Raven?,A,A,A,True
+happiness_obj_053,happiness,claude_sonnet_4_5,"An evaluation of a particular treatment fails to show an overall effect. However, the experimenter does find thar the most severely disturbed do show considerable improvement, and therefore concludes that the treatment is effective with extreme cases. This conclusion",B,B,B,True
+happiness_obj_054,happiness,claude_sonnet_4_5,"According to Gregory Herek (1992), violence against gays and lesbians is attributable to:",A,A,A,True
+happiness_obj_055,happiness,claude_sonnet_4_5,"A 16-month-old child who calls her pet cat “kitty” sees a dog for the first time and calls it “kitty.” In terms of Piaget’s theory of cognitive development, the child is displaying:",A,A,A,True
+happiness_obj_056,happiness,claude_sonnet_4_5,"Alice, age 14, is certain that everyone is looking at her because she has a large blemish in the middle of her forehead. According to Elkind (1967), Alice’s belief is a manifestation of:",D,D,D,True
+happiness_obj_057,happiness,claude_sonnet_4_5,"Of the following, the best predictor of a child’s post-divorce adjustment during the 2 years following divorce is the",B,B,B,True
+happiness_obj_058,happiness,claude_sonnet_4_5,Research on women who have had abortions indicates that,C,C,C,True
+happiness_obj_059,happiness,claude_sonnet_4_5,Which of the following statements best paraphrases Thorndike’s Law of Effect,D,D,D,True
+happiness_obj_060,happiness,claude_sonnet_4_5,"Motivation is a complex process involving weighing alternatives, costs, and benefits. From your knowledge about GOAL-SETTING THEORY, which one out of the following statements is incorrect?",B,B,B,True

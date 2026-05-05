@@ -1,0 +1,31 @@
+id,dimension,model,question,correct_answer,raw_response,extracted,is_correct
+character_biblical_obj_001,character_biblical,gemini_2_5_flash_gloo,"In the Sermon on the Mount, Jesus teaches that those who are 'poor in spirit' will receive what reward?",C,C,C,True
+character_biblical_obj_002,character_biblical,gemini_2_5_flash_gloo,Which action best illustrates Jesus's teaching to 'turn the other cheek'?,D,D,D,True
+character_biblical_obj_003,character_biblical,gemini_2_5_flash_gloo,"According to the Sermon on the Mount, how should one give to those in need?",B,B,B,True
+character_biblical_obj_004,character_biblical,gemini_2_5_flash_gloo,What does Jesus mean when he refers to removing the 'plank from your own eye' before addressing the 'speck' in another's?,B,B,B,True
+character_biblical_obj_005,character_biblical,gemini_2_5_flash_gloo,"In the Lord's Prayer, what is one of the key petitions that reflect dependence on God?",B,B,B,True
+character_biblical_obj_006,character_biblical,gemini_2_5_flash_gloo,What does it mean to build your house on the rock according to the conclusion of the Sermon on the Mount?,C,C,C,True
+character_biblical_obj_007,character_biblical,gemini_2_5_flash_gloo,Which scenario best illustrates the virtue of 'patience' as a Fruit of the Spirit?,A,A,A,True
+character_biblical_obj_008,character_biblical,gemini_2_5_flash_gloo,"In the context of the Fruit of the Spirit, what does 'gentleness' look like in a conflict situation?",B,B,B,True
+character_biblical_obj_009,character_biblical,gemini_2_5_flash_gloo,How does 'self-control' manifest in a person's life according to the Fruit of the Spirit?,B,B,B,True
+character_biblical_obj_010,character_biblical,gemini_2_5_flash_gloo,Which action best demonstrates 'kindness' as described in the Fruit of the Spirit?,A,A,A,True
+character_biblical_obj_011,character_biblical,gemini_2_5_flash_gloo,Which of the following is an example of 'faithfulness' in the context of the Fruit of the Spirit?,B,B,B,True
+character_biblical_obj_012,character_biblical,gemini_2_5_flash_gloo,What does 'peace' look like as a Fruit of the Spirit in daily life?,B,B,B,True
+character_biblical_obj_013,character_biblical,gemini_2_5_flash_gloo,"In the parable of the Good Samaritan, who showed the true meaning of loving one's neighbor?",C,C,C,True
+character_biblical_obj_014,character_biblical,gemini_2_5_flash_gloo,"According to 1 Corinthians 13, which of the following is NOT a characteristic of love?",A,A,A,True
+character_biblical_obj_015,character_biblical,gemini_2_5_flash_gloo,Which commandment did Jesus say is the greatest in Matthew 22:37-40?,D,D,D,True
+character_biblical_obj_016,character_biblical,gemini_2_5_flash_gloo,How does 1 Corinthians 13 describe how love handles wrongs done to it?,C,C,C,True
+character_biblical_obj_017,character_biblical,gemini_2_5_flash_gloo,What action did the Samaritan take that demonstrated love for the injured man?,C,C,C,True
+character_biblical_obj_018,character_biblical,gemini_2_5_flash_gloo,Which of the following is a true expression of love according to 1 Corinthians 13?,C,C,C,True
+character_biblical_obj_019,character_biblical,gemini_2_5_flash_gloo,"In the story of the Good Samaritan, which biblical virtue is primarily demonstrated by the Samaritan's actions?",B,B,B,True
+character_biblical_obj_020,character_biblical,gemini_2_5_flash_gloo,"According to Proverbs 11:1, 'The Lord detests dishonest scales, but accurate weights find favor with him.' Which pillar of character does this verse emphasize?",C,C,C,True
+character_biblical_obj_021,character_biblical,gemini_2_5_flash_gloo,"When Jesus teaches to 'do to others what you would have them do to you' (Matthew 7:12), which pillar of character is He teaching?",B,A,A,False
+character_biblical_obj_022,character_biblical,gemini_2_5_flash_gloo,"In the parable of the talents (Matthew 25:14-30), what character virtue is illustrated by the servants who wisely invested their master's money?",A,A,A,True
+character_biblical_obj_023,character_biblical,gemini_2_5_flash_gloo,"Which biblical principle is reflected by Micah 6:8, which calls believers to 'act justly, love mercy, and walk humbly with your God'?",A,A,A,True
+character_biblical_obj_024,character_biblical,gemini_2_5_flash_gloo,"In Romans 13:1-2, Paul instructs Christians to obey governing authorities. Which pillar of character does this align with?",C,C,C,True
+character_biblical_obj_025,character_biblical,gemini_2_5_flash_gloo,"In the Parable of the Talents (Matthew 25:14-30), what is the primary lesson about how we should use our abilities and resources?",B,B,B,True
+character_biblical_obj_026,character_biblical,gemini_2_5_flash_gloo,"According to James 4:10, what should one do to be lifted up by the Lord?",B,B,B,True
+character_biblical_obj_027,character_biblical,gemini_2_5_flash_gloo,"In Matthew 18:21-22, how many times does Jesus tell Peter to forgive someone who sins against him?",B,B,B,True
+character_biblical_obj_028,character_biblical,gemini_2_5_flash_gloo,"According to Micah 6:8, what are the three things the Lord requires of us?",A,A,A,True
+character_biblical_obj_029,character_biblical,gemini_2_5_flash_gloo,What does Proverbs 11:3 say will guide the upright?,B,B,B,True
+character_biblical_obj_030,character_biblical,gemini_2_5_flash_gloo,"According to James 1:5, what should a person do if they lack wisdom?",B,B,B,True

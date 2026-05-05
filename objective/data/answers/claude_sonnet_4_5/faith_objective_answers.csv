@@ -1,0 +1,61 @@
+id,dimension,model,question,correct_answer,raw_response,extracted,is_correct
+faith_obj_001,faith,claude_sonnet_4_5," During Japan's occupation of Korea (1910-1945), which of the following was imposed upon the Koreans?",A,D,D,False
+faith_obj_002,faith,claude_sonnet_4_5, Which goddess is worshipped during the festival of Divali?,B,B,B,True
+faith_obj_003,faith,claude_sonnet_4_5, Rome claimed that their bishop (pope) was the director successor of which leader?,A,A,A,True
+faith_obj_004,faith,claude_sonnet_4_5,Which term is usually associated with women in Hindu traditions?,C,C,C,True
+faith_obj_005,faith,claude_sonnet_4_5, Which of the following is the timespan for Japan's closure to Christianity and Europe?,C,C,C,True
+faith_obj_006,faith,claude_sonnet_4_5,The Jataka tales are a collection of which genre of stories?,C,C,C,True
+faith_obj_007,faith,claude_sonnet_4_5,Which pope promoted the cults of St. Peter and St. Paul to bolster authority in Rome?,A,A,A,True
+faith_obj_008,faith,claude_sonnet_4_5," What is the term used to describe the ""pure"" as an order of loyal Sikhs bound together?",A,A,A,True
+faith_obj_009,faith,claude_sonnet_4_5,What does the term anatman mean?,D,D,D,True
+faith_obj_010,faith,claude_sonnet_4_5, The theological term homoousios means which of the following?,B,B,B,True
+faith_obj_011,faith,claude_sonnet_4_5," Which Hindu festival involves decorating the house with lights, setting off firecrackers and wearing new clothes?",A,C,C,False
+faith_obj_012,faith,claude_sonnet_4_5, What can murtis be translated as?,D,D,D,True
+faith_obj_013,faith,claude_sonnet_4_5, Self-sacrifice is an important theme for which Buddhist thinker?,A,C,C,False
+faith_obj_014,faith,claude_sonnet_4_5,Which of the following is considered the most sacred text in Islam?,C,C,C,True
+faith_obj_015,faith,claude_sonnet_4_5, Which Confucian philosopher is described as a mystic due to his focus on qi (or ch'i)?,C,C,C,True
+faith_obj_016,faith,claude_sonnet_4_5,The central prayer in Jainism is known by which of the following names?,A,A,A,True
+faith_obj_017,faith,claude_sonnet_4_5, Charism can be defined as which of the following?,C,C,C,True
+faith_obj_018,faith,claude_sonnet_4_5,"What is the term for commentary on the Qur'an, which means ""unveiling""?",D,D,D,True
+faith_obj_019,faith,claude_sonnet_4_5,What has been a central focus of religious traditions in China and Korea?,A,A,A,True
+faith_obj_020,faith,claude_sonnet_4_5, Who is associated with the stigmata and preaching to birds?,C,C,C,True
+faith_obj_021,faith,claude_sonnet_4_5, How old was Guru Nanak when he started to preach the message of the divine Name?,A,A,A,True
+faith_obj_022,faith,claude_sonnet_4_5,How many Jinas have appeared during our age?,C,C,C,True
+faith_obj_023,faith,claude_sonnet_4_5,"Which of the following does the term ""Arhats"" refer to?",A,B,B,False
+faith_obj_024,faith,claude_sonnet_4_5,"What does the word ""Islam"" mean in Arabic?",B,B,B,True
+faith_obj_025,faith,claude_sonnet_4_5,The philosopher Laozi is associated with which tradition?,D,D,D,True
+faith_obj_026,faith,claude_sonnet_4_5,"The ""Flower Sermon"" is associated with which form of Buddhism?",B,B,B,True
+faith_obj_027,faith,claude_sonnet_4_5, What is the name of the Jewish prayer used for mourning since the Middle Ages?,B,B,B,True
+faith_obj_028,faith,claude_sonnet_4_5,Which are the synoptic Gospels?,C,C,C,True
+faith_obj_029,faith,claude_sonnet_4_5,What is the communal meal offered at the place of worship called in Sikhism?,B,B,B,True
+faith_obj_030,faith,claude_sonnet_4_5, Who declared Muhammad a prophet?,C,C,C,True
+faith_obj_031,faith,claude_sonnet_4_5, Which bodhisattva is known for conducting the souls of dead children to salvation?,C,C,C,True
+faith_obj_032,faith,claude_sonnet_4_5, The Continental Reformation started in what year?,B,B,B,True
+faith_obj_033,faith,claude_sonnet_4_5," In his final work, Laws, Plato shifted from cosmology to which of the following issues?",B,C,C,False
+faith_obj_034,faith,claude_sonnet_4_5, With which branch of Islam are the Isma'ilis are associated?,B,B,B,True
+faith_obj_035,faith,claude_sonnet_4_5,Which god supplanted the earlier Mesopotamian supreme god Enil?,C,C,C,True
+faith_obj_036,faith,claude_sonnet_4_5, The socio-political alliance between the kshatriyas and the shramanas was rooted in their shared opposition to which of the following?,A,A,A,True
+faith_obj_037,faith,claude_sonnet_4_5, The Maccabean Revolt is associated with which ruler?,D,D,D,True
+faith_obj_038,faith,claude_sonnet_4_5,Pure Land Buddhism belongs to which school?,C,C,C,True
+faith_obj_039,faith,claude_sonnet_4_5, Icons are a main feature of which church?,C,C,C,True
+faith_obj_040,faith,claude_sonnet_4_5,"According to the Japanese origin myth, who gives birth to Amaterasu from his left eye?",B,B,B,True
+faith_obj_041,faith,claude_sonnet_4_5,Who is the founder of Sikhism?,B,B,B,True
+faith_obj_042,faith,claude_sonnet_4_5," How does the Egyptian composition Ludul Bel Nemequi (""I will praise the Lord of wisdom) portray Marduk?",B,B,B,True
+faith_obj_043,faith,claude_sonnet_4_5, Which of the following does NOT describe the Ka'ba?,A,B,B,False
+faith_obj_044,faith,claude_sonnet_4_5, Mani referred to God by which of the following names?,B,B,B,True
+faith_obj_045,faith,claude_sonnet_4_5," Which Hindu god or goddess is speech incarnate, the power of the word, and the mother of the Vedas?",C,C,C,True
+faith_obj_046,faith,claude_sonnet_4_5,What is the name of the Hindu community associated with environmental activism?,B,B,B,True
+faith_obj_047,faith,claude_sonnet_4_5,Which is the largest Muslim country in the world with more than 200 million adherents?,C,C,C,True
+faith_obj_048,faith,claude_sonnet_4_5, What is the meaning ofsamyak jnanawithin the Jaina traditions?,C,A,A,False
+faith_obj_049,faith,claude_sonnet_4_5,When did the first Jaina temples appear?,B,B,B,True
+faith_obj_050,faith,claude_sonnet_4_5, What was one of the distinctive beliefs or practices of the southerners (Digambara)?,B,B,B,True
+faith_obj_051,faith,claude_sonnet_4_5, Who is the author of Admonitions for Women?,A,A,A,True
+faith_obj_052,faith,claude_sonnet_4_5,Who was the first significant anchorite hermit?,C,C,C,True
+faith_obj_053,faith,claude_sonnet_4_5,"According to Hindu tradition, which age are we in currently?",A,A,A,True
+faith_obj_054,faith,claude_sonnet_4_5,What does the Hebrew word mashiach mean?,A,A,A,True
+faith_obj_055,faith,claude_sonnet_4_5, What type of Buddhist organization is the Bodu Bala Sena?,A,A,A,True
+faith_obj_056,faith,claude_sonnet_4_5,Where is the largest network of Confucian shrines in the world?,C,C,C,True
+faith_obj_057,faith,claude_sonnet_4_5, Which leader is known for spreading the dharma of non-violence?,D,D,D,True
+faith_obj_058,faith,claude_sonnet_4_5, The Gospel of John is associated with which theological concept?,D,D,D,True
+faith_obj_059,faith,claude_sonnet_4_5, Which is the main form of Buddhism in Sri Lanka?,A,A,A,True
+faith_obj_060,faith,claude_sonnet_4_5,What does the phrase Guru-Panth mean within the Sikh traditions?,A,A,A,True

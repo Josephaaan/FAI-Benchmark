@@ -1,0 +1,61 @@
+id,dimension,model,question,correct_answer,raw_response,extracted,is_correct
+health_obj_001,health,gemini_2_5_flash_gloo,The thoracic cage is a structural unit important for which of the following functions?,D,D,D,True
+health_obj_002,health,gemini_2_5_flash_gloo,Which muscles are normally active during quiet inspiration?,B,B,B,True
+health_obj_003,health,gemini_2_5_flash_gloo,Macrostomia results from failure of fusion of,A,A,A,True
+health_obj_004,health,gemini_2_5_flash_gloo,"In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandibular teeth to be",C,C,C,True
+health_obj_005,health,gemini_2_5_flash_gloo,Which one of the following brain areas is supplied by branches of the subclavian arteries?,D,D,D,True
+health_obj_006,health,gemini_2_5_flash_gloo,A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test nerve function by asking the patient to,C,C,C,True
+health_obj_007,health,gemini_2_5_flash_gloo,Which of the following best describes the structure that collects urine in the body?,A,A,A,True
+health_obj_008,health,gemini_2_5_flash_gloo,Which statement concerning the atrioventricular bundle is correct?,B,B,B,True
+health_obj_009,health,gemini_2_5_flash_gloo,The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the,D,C,C,False
+health_obj_010,health,gemini_2_5_flash_gloo,The seventh cranial nerve supplies,C,C,C,True
+health_obj_011,health,gemini_2_5_flash_gloo,A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs is most likely to be involved?,C,C,C,True
+health_obj_012,health,gemini_2_5_flash_gloo,"A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does not regenerate, after about 6 months the muscles it normally innervates will show signs of which of the four options below?",C,C,C,True
+health_obj_013,health,gemini_2_5_flash_gloo,Which of the following foramina pierce the sphenoid bone?,C,C,C,True
+health_obj_014,health,gemini_2_5_flash_gloo,Which of the following conditions is characterized by incompetence of the esophageal sphincter?,C,C,C,True
+health_obj_015,health,gemini_2_5_flash_gloo,Ectoderm gives rise to,D,D,D,True
+health_obj_016,health,gemini_2_5_flash_gloo,A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral,A,A,A,True
+health_obj_017,health,gemini_2_5_flash_gloo,"In the brain stem, pathways for:",C,C,C,True
+health_obj_018,health,gemini_2_5_flash_gloo,Saliva contains an enzyme that acts upon which of the following nutrients?,A,A,A,True
+health_obj_019,health,gemini_2_5_flash_gloo,The bones of the viscerocranium develop initially by,C,C,C,True
+health_obj_020,health,gemini_2_5_flash_gloo,During swallowing the,A,A,A,True
+health_obj_021,health,gemini_2_5_flash_gloo,During CPR chest compressions and ventilations should be delivered in a ratio of:,D,D,D,True
+health_obj_022,health,gemini_2_5_flash_gloo,What type of covalent bonds link the amino acids in a protein?,A,A,A,True
+health_obj_023,health,gemini_2_5_flash_gloo,Why should a patient stand or sit as upright as possible when recording a peak flow rate?,A,A,A,True
+health_obj_024,health,gemini_2_5_flash_gloo,What is hypochlorhydria?,C,C,C,True
+health_obj_025,health,gemini_2_5_flash_gloo,Which of the following promotes glucose and amino acid uptake by muscle?,B,B,B,True
+health_obj_026,health,gemini_2_5_flash_gloo,"The β-oxidation of a molecule of palmitic acid, CH3(CH2)14CO2H:",A,A,A,True
+health_obj_027,health,gemini_2_5_flash_gloo,Which one of the following manoeuvres is not a central painful stimulus?,B,B,B,True
+health_obj_028,health,gemini_2_5_flash_gloo,What size of cannula would you use in a patient who needed a rapid blood transfusion (as of 2020 medical knowledge)?,A,A,A,True
+health_obj_029,health,gemini_2_5_flash_gloo,Peak flow meters record:,D,D,D,True
+health_obj_030,health,gemini_2_5_flash_gloo,Why should the short-acting bronchodilator be taken first?,A,A,A,True
+health_obj_031,health,gemini_2_5_flash_gloo,Fatty acids are transported into the mitochondria bound to:,D,D,D,True
+health_obj_032,health,gemini_2_5_flash_gloo,The cardiac cycle consists of the phases:,C,C,C,True
+health_obj_033,health,gemini_2_5_flash_gloo,How many chromosomes do all human somatic cells contain?,D,D,D,True
+health_obj_034,health,gemini_2_5_flash_gloo,Which of the following is not a category used to classify patients according to the Glasgow Coma Scale?,D,D,D,True
+health_obj_035,health,gemini_2_5_flash_gloo,Which of the following drugs may be used to enhance gastric motility?,C,C,C,True
+health_obj_036,health,gemini_2_5_flash_gloo,Lactate and hydrogen ions leave the muscle:,C,C,C,True
+health_obj_037,health,gemini_2_5_flash_gloo,The creatine kinase reaction is:,D,A,A,False
+health_obj_038,health,gemini_2_5_flash_gloo,A normal heart rate for an adult at rest is:,B,B,B,True
+health_obj_039,health,gemini_2_5_flash_gloo,How much toothpaste is recommended for cleaning teeth?,B,B,B,True
+health_obj_040,health,gemini_2_5_flash_gloo,The transcription of DNA to a molecule of messenger RNA occurs:,C,C,C,True
+health_obj_041,health,gemini_2_5_flash_gloo,The risk of abnormality in the child of a mother with untreated phenylketonuria is:,D,D,D,True
+health_obj_042,health,gemini_2_5_flash_gloo,"In genome-wide association studies, known SNPs explain ______ of the variation in body mass index despite the evidence of greater than 50% heritability from twin and family studies.",D,A,A,False
+health_obj_043,health,gemini_2_5_flash_gloo,The most common chromosome abnormality in first trimester spontaneous miscarriages is:,A,A,A,True
+health_obj_044,health,gemini_2_5_flash_gloo,Differential distribution of substances in the egg most typically results in:,A,A,A,True
+health_obj_045,health,gemini_2_5_flash_gloo,What would be the frequency of AABBCC individuals from a mating of two AaBbCc individuals?,A,A,A,True
+health_obj_046,health,gemini_2_5_flash_gloo,A baby born with pulmonary hypoplasia secondary to oligohydramnios caused by renal agenesis would be classified as having:,C,C,C,True
+health_obj_047,health,gemini_2_5_flash_gloo,"An increase in the inbreeding coefficient, F, is likely to result in:",A,A,A,True
+health_obj_048,health,gemini_2_5_flash_gloo,Male breast cancer is associated with mutations in ___.,B,B,B,True
+health_obj_049,health,gemini_2_5_flash_gloo,X-chromosome inactivation,A,A,A,True
+health_obj_050,health,gemini_2_5_flash_gloo,A cross between two true breeding lines one with dark blue flowers and one with bright white flowers produces F1 offspring that are light blue. When the F1 progeny are selfed a 1:2:1 ratio of dark blue to light blue to white flowers is observed. What genetic phenomenon is consistent with these results?,B,B,B,True
+health_obj_051,health,gemini_2_5_flash_gloo,Which of the following disorders does not show X-linked inheritance?,B,B,B,True
+health_obj_052,health,gemini_2_5_flash_gloo,Which of the following causes female pseudohermaphroditism?,C,C,C,True
+health_obj_053,health,gemini_2_5_flash_gloo,Transcriptional activator proteins,A,A,A,True
+health_obj_054,health,gemini_2_5_flash_gloo,Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome?,C,C,C,True
+health_obj_055,health,gemini_2_5_flash_gloo,Which of the following karyotypes is not compatible with survival to birth?,D,D,D,True
+health_obj_056,health,gemini_2_5_flash_gloo,A high blood ammonia level occurs in:,C,C,C,True
+health_obj_057,health,gemini_2_5_flash_gloo,Twin studies in humans are useful because,A,A,A,True
+health_obj_058,health,gemini_2_5_flash_gloo,The presence of two or more cell lines from different zygotes in a single individual is known as:,D,D,D,True
+health_obj_059,health,gemini_2_5_flash_gloo,"Nature is more important for ______ differences, while nurture has greater influence on ______ differences.",A,A,A,True
+health_obj_060,health,gemini_2_5_flash_gloo,Consanguinity shows a strong association with which pattern of inheritance?,B,B,B,True

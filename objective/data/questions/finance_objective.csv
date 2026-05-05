@@ -1,0 +1,155 @@
+id,dimension,source,type,question,choice_a,choice_b,choice_c,choice_d,answer,answer_label,context
+finance_obj_001,finance,econometrics,objective,"A researcher tests for structural stability in the following regression model:
+
+$y_t = \beta_1 + \beta_2 x_{2t} + \beta_3 x_{3t} + u_t$
+
+The total sample of 200 observations is split exactly in half for the sub-sample regressions. Which would be the unrestricted residual sum of squares?",The RSS for the whole sample,The RSS for the first sub-sample,The RSS for the second sub-sample,The sum of the RSS for the first and second sub-samples,3,D,
+finance_obj_002,finance,econometrics,objective,Suppose that the Durbin Watson test is applied to a regression containing two explanatory variables plus a constant with 50 data points. The test statistic takes a value of 1.53. What is the appropriate conclusion?,Residuals appear to be positively autocorrelated,Residuals appear to be negatively autocorrelated,Residuals appear not to be autocorrelated,The test result is inconclusive,3,D,
+finance_obj_003,finance,econometrics,objective,"Suppose that we have estimated a GARCH model for daily equity returns, and we are interested in producing a 10-day forecast of the volatility (measured by the standard deviation of returns) for use in a value at risk model. How could such a forecast most validly be calculated?","Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts and add them up","Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts and add them up and take the square root","Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts, take the square roots of each one and add them up","Produce a 1-step ahead conditional variance forecast, take its square root and multiply it by the square root of 10",1,B,
+finance_obj_004,finance,econometrics,objective,"Which of the following statements are true concerning the acf and pacf?
+
+(i) The acf and pacf are often hard to interpret in practice
+
+(ii) The acf and pacf can be difficult to calculate for some data sets
+
+(iii) Information criteria represent an alternative approach to model order determination
+
+(iv) If applied correctly, the acf and pacf will always deliver unique model selections",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",2,C,
+finance_obj_005,finance,econometrics,objective,"Which of the following statements are true concerning maximum likelihood (ML) estimation in the context of GARCH models?
+
+i) Maximum likelihood estimation selects the parameter values that maximise the
+
+probability that we would have actually observed the values of the series y that we
+
+actually did.
+
+
+ii) GARCH models can only be estimated by ML and not by OLS
+
+
+iii) For estimation of a standard linear model (with no GARCH), the OLS and ML
+
+estimates for the slope and intercept parameters will be identical but the estimator
+
+for the variance of the disturbances is slightly different
+
+
+iv) Most computer packages use numerical procedures to estimate GARCH models
+
+rather than a set of analytical formulae",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",3,D,
+finance_obj_006,finance,econometrics,objective,"Which of the following is an equivalent expression for saying that the explanatory variable is ""non-stochastic""?",The explanatory variable is partly random,The explanatory variable is fixed in repeated samples,The explanatory variable is correlated with the errors,The explanatory variable always has a value of one,1,B,
+finance_obj_007,finance,econometrics,objective,"Under the null hypothesis of a Bera-Jarque test, the distribution has",Zero skewness and zero kurtosis,Zero skewness and a kurtosis of three,Skewness of one and zero kurtosis,Skewness of one and kurtosis of three.,1,B,
+finance_obj_008,finance,econometrics,objective,"Which of the following are alternative names for the dependent variable (usually denoted by y) in linear regression analysis?
+
+(i) The regressand
+
+(ii) The regressor
+
+(iii) The explained variable
+
+(iv) The explanatory variable",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",1,B,
+finance_obj_009,finance,econometrics,objective,"Which of the following are plausible approaches to dealing with residual autocorrelation?
+
+i) Take logarithms of each of the variables
+
+ii) Add lagged values of the variables to the regression equation
+
+iii) Use dummy variables to remove outlying observations
+
+iv) Try a model in first differenced form rather than in levels.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",0,A,
+finance_obj_010,finance,econometrics,objective,Which one of the following is NOT an example of mis-specification of functional form?,Using a linear specification when y scales as a function of the squares of x,Using a linear specification when a double-logarithmic model would be more appropriate,Modelling y as a function of x when in fact it scales as a function of 1/x,Excluding a relevant variable from a linear regression model,3,D,
+finance_obj_011,finance,econometrics,objective,"Which of the following statements are true concerning the Box-Jenkins approach to diagnostic testing for ARMA models?
+
+(i) The tests will show whether the identified model is either too large or too small
+
+(ii) The tests involve checking the model residuals for autocorrelation, heteroscedasticity, and non-normality
+
+(iii) If the model suggested at the identification stage is appropriate, the acf and pacf for the residuals should show no additional structure
+
+(iv) If the model suggested at the identification stage is appropriate, the coefficients on the additional variables under the overfitting approach will be statistically insignificant",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",0,A,
+finance_obj_012,finance,econometrics,objective,"Which of the following are disadvantages of the Dickey-Fuller / Engle-Granger approach to testing for cointegration and modelling cointegrating relationships?
+
+i) Only one cointegrating relationship can be estimated
+
+ii) Particularly for small samples. There is a high chance of the tests suggestingthat variables are not cointegrated when they are
+
+iii) It is not possible to make inferences on the cointegrating regression
+
+iv) The procedure forces the researcher to specify which is the dependent variable and which are the independent variables.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",3,D,
+finance_obj_013,finance,econometrics,objective,"If OLS is applied separately to each equation that is part of a simultaneous system, the resulting estimates will be",Unbiased and consistent,Biased but consistent,Biased and inconsistent,It is impossible to apply OLS to equations that are part of a simultaneous system,2,C,
+finance_obj_014,finance,econometrics,objective,"Which of the following statements are true concerning the standardised residuals (residuals divided by their respective conditional standard deviations) from an estimated GARCH model?
+
+i) They are assumed to be normally distributed
+
+
+ii) Their squares will be related to their lagged squared values if the GARCH model is
+
+appropriate
+
+
+iii) In practice, they are likely to have fat tails
+
+
+iv) If the GARCH model is adequate, the standardised residuals and the raw residuals
+
+will be identical",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",1,B,
+finance_obj_015,finance,econometrics,objective,"Which of the following statements are correct concerning the use of antithetic variates as part of a Monte Carlo experiment?
+
+i) Antithetic variates work by reducing the number of replications required to cover the whole probability space
+
+ii) Antithetic variates involve employing a similar variable to that used in the simulation, but whose properties are known analytically
+
+iii) Antithetic variates involve using the negative of each of the random draws and repeating the experiment using those values as the draws
+
+iv) Antithetic variates involve taking one over each of the random draws and repeating the experiment using those values as the draws",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iv) only","(i), (ii), (iii), and (iv)",1,B,
+finance_obj_016,finance,econometrics,objective,Which one of the following criticisms of the Dickey-Fuller/Engle-Granger approach to dealing with cointegrated variables is overcome by the Engle-Yoo (EY) procedure?,"In the context of small samples, Dickey Fuller tests are prone to conclude that there is a unit root in a series when there is not",The Engle-Granger (EG) approach can only detect up to one cointegrating relationship even though there could be more than one,The variables are treated asymmetrically in the cointegrating tests,It is not possible to perform tests about the cointegrating relationship,3,D,
+finance_obj_017,finance,econometrics,objective,Consider a series that follows an MA(1) with zero mean and a moving average coefficient of 0.4. What is the value of the autocovariance at lag 1?,0.4,1,0.34,It is not possible to determine the value of the autocovariances without knowing the disturbance variance.,3,D,
+finance_obj_018,finance,econometrics,objective,Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)?,They can be interpreted as continuously compounded changes in the prices,They can be added over time to give returns for longer time periods,They can be added across a portfolio of assets to give portfolio returns,They are usually fat-tailed,2,C,
+finance_obj_019,finance,econometrics,objective,Which of the following statements is true concerning the population regression function (PRF) and sample regression function (SRF)?,The PRF is the estimated model,The PRF is used to infer likely values of the SRF,Whether the model is good can be determined by comparing the SRF and the PRF,The PRF is a description of the process thought to be generating the data.,3,D,
+finance_obj_020,finance,econometrics,objective,"Consider the following sample autocorrelation estimates obtained using 250 data points:
+
+1) Lag 1 2 3
+
+2) Coefficient 0.2 -0.15 -0.1
+
+3) Assuming that the coefficients are approximately normally distributed, which of the coefficients are statistically significant at the 5% level?",1 only,1 and 2 only,"1, 2 and 3 only",It is not possible to determine the statistical significance since no standard errors have been given,1,B,
+finance_obj_021,finance,high_school_macroeconomics,objective,Automatic or built-in stabilizers,prevent inflation.,prevent recessions from occurring.,prevent inflation and recessions from occurring.,are government policies already in place that promote deficit spending during recessions and surplus budgets during expansions.,3,D,
+finance_obj_022,finance,high_school_macroeconomics,objective,A budget deficit exists when,the total amount that the government owes at a given time is positive,government spending exceeds tax collections for a given period,exports exceed imports in a given year,imports exceed exports in a given year,1,B,
+finance_obj_023,finance,high_school_macroeconomics,objective,Sue loses her job at a shoe factory when the economy falls into a recession. Sue is,frictionally unemployed.,cyclically unemployed.,seasonally unemployed.,structurally unemployed.,1,B,
+finance_obj_024,finance,high_school_macroeconomics,objective,Suppose that current disposable income is $10000 and consumption spending is $8000. For every $100 increase in disposable income saving increases $10. Given this information,the marginal propensity to consume is .80.,the marginal propensity to save is .20.,the marginal propensity to save is .10.,the marginal propensity to save is .90.,2,C,
+finance_obj_025,finance,high_school_macroeconomics,objective,According to Say's law,when price goes up supply goes up,it is better to give than receive,demand creates its own supply,supply creates its own demand,3,D,
+finance_obj_026,finance,high_school_macroeconomics,objective,Suppose that Tiger Woods buys a golf ball in England for $1 and the marginal propensity to consume in England is 0.75. What is the total increase in England's real GDP resulting from Mr. Woods' purchase?,$1 ,$1.25 ,$1.75 ,$4 ,3,D,
+finance_obj_027,finance,high_school_macroeconomics,objective,Which of the following is equal to one?,The elasticity of the long-run aggregate supply curve,The spending (or expenditure) multiplier,The money (or banking) multiplier,The balanced budget multiplier,3,D,
+finance_obj_028,finance,high_school_macroeconomics,objective,A policy supported by supply-side economists would be,higher taxes on corporate profits.,lower tax rates on interest earned from savings.,removal of investment tax credits.,a longer duration of unemployment benefits.,1,B,
+finance_obj_029,finance,high_school_macroeconomics,objective,Which of the following would reduce economic growth?,A decline in investment.,An increase in immigration from abroad.,A technological advance.,An increase in the labor force.,0,A,
+finance_obj_030,finance,high_school_macroeconomics,objective,According to Keynesian analysis the Great Depression was caused by,a lack of spending.,a sharp rise in the marginal propensity to consume.,too much investment.,too much foreign influence on the economy.,0,A,
+finance_obj_031,finance,high_school_macroeconomics,objective,What is the main contrast between the short-run and long-run Phillips curve?,In the short run there is a positive relationship between inflation and unemployment and in the long run the relationship is negative.,In the short run there is a positive relationship between inflation and unemployment and in the long run the relationship is constant.,In the short run there is a negative relationship between inflation and unemployment and in the long run the relationship is positive.,In the short run there is a negative relationship between inflation and unemployment and in the long run the relationship is constant.,3,D,
+finance_obj_032,finance,high_school_macroeconomics,objective,Stagflation is the result of,a leftward shift in the aggregate supply curve.,a leftward shift in the aggregate demand curve.,a leftward shift in both the aggregate supply and aggregate demand curves.,a rightward shift in the aggregate supply curve.,0,A,
+finance_obj_033,finance,high_school_macroeconomics,objective,If nominal GDP equals $5000 and real GDP equals $4000 then the GDP Deflator equals,125,1.25,800,0.8,0,A,
+finance_obj_034,finance,high_school_macroeconomics,objective,It is unlikely that the unemployment rate will ever fall to zero because of,frictional unemployment.,cyclical unemployment.,government policies.,corporate policies.,0,A,
+finance_obj_035,finance,high_school_macroeconomics,objective,When a bank's balance sheet shows that the bank has excess reserves,the bank’s reserves exceed the bank’s assets,the bank can make additional loans,the bank’s actual reserves are less than its required reserves,the bank is required to change its interest rate,1,B,
+finance_obj_036,finance,high_school_macroeconomics,objective,Which of the following is not included in MI?,Coins.,Paper money.,Travelers' checks.,Credit cards.,3,D,
+finance_obj_037,finance,high_school_macroeconomics,objective,U.S. real GDP most likely falls when,tariffs and quotas are removed.,investment in human capital is high.,the money supply is increased.,the value of the dollar relative to foreign currencies is high.,3,D,
+finance_obj_038,finance,high_school_macroeconomics,objective,A difference between M1 and M2 is that,M1 is a first mortgage and M2 is a second mortgage,M2 is M1 plus assets that are more liquid,M2 includes savings deposits,M1 is larger than M2,2,C,
+finance_obj_039,finance,high_school_macroeconomics,objective,According to Keynesian economists,the investment demand curve is relatively elastic,fiscal policy is more effective than monetary policy,the economy is inherently stable,inadequate supply is largely to blame for periods of stagnation,1,B,
+finance_obj_040,finance,high_school_macroeconomics,objective,In the last 20 years firms that produce cameras have begun to produce fewer 35-mm cameras and more digital cameras. This trend is an example of,how central planners dictate which cameras are produced.,"the market system answering the question of ""how"" cameras should be produced.","the market system answering the question of ""what"" cameras should be produced.","the market system answering the question of ""who"" should consume the cameras that are produced.",2,C,
+finance_obj_041,finance,high_school_microeconomics,objective,Which of the following statements is true for a firm in a perfectly competitive industry?,Total revenue increases and then decreases.,Marginal revenue is decreasing.,Average revenue is initially negative and then becomes positive.,Average revenue equals marginal revenue.,3,D,
+finance_obj_042,finance,high_school_microeconomics,objective,A competitive firm's demand for labor is determined directly by,profits,the opportunity cost of workers’ time,the wage and the average (physical) product of labor,the marginal (physical) product of labor and the output price,3,D,
+finance_obj_043,finance,high_school_microeconomics,objective,"Elsa values her time at $50 per hour, and tutors David for two hours. David is willing to pay $175 for two hours of tutoring, but they negotiate a price of $125 for the entire two hours. Which of the following statements is true about the transaction above:",Consumer surplus is greater than producer surplus by between $50 and $75.,Producer surplus is greater than consumer surplus by between $50 and $75.,Consumer surplus is greater than producer surplus by more than $75.,The difference between consumer and producer surplus is $25.,3,D,
+finance_obj_044,finance,high_school_microeconomics,objective,"Firms with the following market structure(s) maximize profits by producing where marginal cost equals marginal revenue, if at all. I. Perfect competition II. Oligopoly III. Monopoly IV. Monopolistic competition",I only,I and II only,I and III only,"I, II, III, and IV",3,D,
+finance_obj_045,finance,high_school_microeconomics,objective,Good X is exchanged in a competitive market. Which of the following is true if an excise tax is now imposed on the production of good X?,"If the demand curve is perfectly elastic, the price rises by the amount of the tax.",The consumer's burden of the tax rises as the demand curve is more elastic.,Consumer surplus rises as a result of the tax.,The consumer's burden of the tax rises as the demand curve is less elastic.,3,D,
+finance_obj_046,finance,high_school_microeconomics,objective,"Relative to a competitive input market, a monopsony",pays less and hires more,pays less and hires the same amount,pays more and hires more,pays less and hires fewer,3,D,
+finance_obj_047,finance,high_school_microeconomics,objective,Monopolistic competition is said to be productively inefficient because,the long-run price is above minimum average total cost.,long-run profits are positive.,firms engage in collusive behavior.,there exist no barriers to entry.,0,A,
+finance_obj_048,finance,high_school_microeconomics,objective,"With the presence of a positive externality, which of the following would correct the externality?",A government subsidy.,A government tax.,A higher price.,A lower level of output.,0,A,
+finance_obj_049,finance,high_school_microeconomics,objective,You are told that the income elasticity for DVDs is + 1.5. This means that,a 10 percent increase in income produces a 15 percent increase in consumption of DVDs. DVDs are a normal luxury good.,a 10 percent increase in income produces a 15 percent increase in consumption of DVDs. DVDs are an inferior good.,a 10 percent increase in income produces a 15 percent decrease in consumption of DVDs. DVDs are an inferior good.,a 10 percent increase in the price of DVDs produces a 15 percent decrease in consumption of DVDs. DVDs are a price elastic good.,0,A,
+finance_obj_050,finance,high_school_microeconomics,objective,"Education makes Chris a better worker, voter, parent, and citizen. Because the benefits from education go beyond those that Chris enjoys himself, education provides",increasing marginal utility and should be subsidized,externalities and should be taxed,decreasing marginal utility and should be taxed,externalities and should be subsidized,3,D,
+finance_obj_051,finance,high_school_microeconomics,objective,The elasticity of supply is typically greater when,producers have fewer alternative goods to produce.,producers have less time to respond to price changes.,producers are operating near the limits of their production.,producers have more time to respond to price changes.,3,D,
+finance_obj_052,finance,high_school_microeconomics,objective,A monopoly is less efficient than a perfect competitor because,a monopoly produces more output and sells for a higher price,a monopoly produces less output and sells for a higher price,a monopoly can make profit in the short run but not in the long run,a perfect competitor breaks even in the short run and the monopoly does not,1,B,
+finance_obj_053,finance,high_school_microeconomics,objective,The market demand curve for labor will shift to the right when,the number of firms increases,the price of output decreases,the labor supply curve shifts to the right,the labor supply curve shifts to the left,0,A,
+finance_obj_054,finance,high_school_microeconomics,objective,Which of the following is most likely to result in a shift to the right in the demand curve for orange juice?,A bumper crop of oranges in Florida,A decrease in the price of Tang,Expectations of lower future prices for orange juice,Expectations of higher future income among juice drinkers,3,D,
+finance_obj_055,finance,high_school_microeconomics,objective,"With respect to the kinked demand curve, which of the following is NOT correct?",There is no price leader.,There are relatively equal shares of the market.,Price is greater than marginal costs.,The demand curve is of one continuous function.,3,D,
+finance_obj_056,finance,high_school_microeconomics,objective,"In a perfectly competitive market, a firm maximizes profit by producing the quantity at which:",Total revenue equals total cost,Marginal revenue equals marginal cost,Average revenue equals average total cost,Price equals average variable cost,1,B,Profit maximization condition in perfect competition
+finance_obj_057,finance,high_school_microeconomics,objective,A bilateral monopoly exists when,a monopsony buys from a monopoly,a monopoly sells to two different types of consumers,a monopoly buys from a monopsony,a monopolist sells two different types of goods,0,A,
+finance_obj_058,finance,high_school_microeconomics,objective,Which of the following is true about a price floor?,It is used to correct government policy.,It is used when the equilibrium price is too high.,It will be located above the equilibrium price.,It will be located below the equilibrium price.,2,C,
+finance_obj_059,finance,high_school_microeconomics,objective,"If firms are entering an industry that is monopolistically competitive, we would expect",the demand for existing firms to shift rightward.,the market price of the product to increase.,the demand for existing firms to become more inelastic.,the demand for existing firms to shift leftward.,3,D,
+finance_obj_060,finance,high_school_microeconomics,objective,Which of the following is an example of a long-run adjustment for the owners of a small café?,The owners switch from whole wheat to sourdough bread.,The owners hire several part-time workers to cover the dinner shifts.,The owners work overtime on a busy weekend.,"The owners buy the office next door, and this doubles the customer seating.",3,D,
