@@ -27,7 +27,6 @@ This study is conducted independently.
 
 > **Note:** GPT-4o is used exclusively for question generation and subjective response grading. It is not a tested model in this study.
 >
-> **Note on model versioning:** Claude Sonnet 4.5 is used as the base model (rather than 4.6) to ensure a fair apples-to-apples comparison, as Claude Sonnet 4.6 is not available on the Gloo platform at the time of this study.
 
 ---
 
@@ -151,30 +150,6 @@ GPT-4o grades every subjective response using the 25-item FAI rubric from Append
 - 4 MMLU questions replaced due to missing table/graph context (faith, finance, meaning)
 - Gemini 2.5 Flash thinking mode disabled for consistent token allocation
 
----
-
-## Phase 4 — Analysis & Paper
-
-### 4.1 Key Analytical Questions
-1. Do Gloo-routed models score higher than base counterparts on objective questions?
-2. Do Gloo-routed models score higher on subjective questions?
-3. Is any advantage consistent across all 8 dimensions, or concentrated in specific ones?
-4. Does Gloo routing affect Claude and Gemini differently?
-
-### 4.2 Paper Structure
-1. Abstract
-2. Introduction
-3. Background & Related Work
-4. Methodology
-5. Results
-6. Discussion
-7. Conclusion
-8. Acknowledgments
-9. References
-
-**Paper title:** *"Does Tradition-Routing Generalize? A Replication Study of the Flourishing AI Benchmark"*
-
----
 
 ## Project File Structure
 
@@ -235,14 +210,3 @@ FAI-Benchmark/
             └── gemini_2_5_flash_gloo/
 ```
 
----
-
-## Key References
-
-- Hilliard, E., et al. (2025). *Measuring AI Alignment with Human Flourishing.* arXiv:2507.07787v2.
-- VanderWeele, T.J. (2017). On the promotion of human flourishing. *PNAS.*
-- VanderWeele, T.J. (2020). *Flourishing: On the measurement of human well-being.*
-- Peterson, C. & Seligman, M.E.P. (2004). *Character strengths and virtues.* VIA Institute.
-- Hills, P. & Argyle, M. (2002). The Oxford Happiness Questionnaire. *Personality and Individual Differences.*
-- Pew Research Center (2023). *How Spiritual Are Americans?*
-- MMLU Dataset: `cais/mmlu` via Hugging Face.
