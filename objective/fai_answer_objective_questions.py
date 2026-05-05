@@ -10,15 +10,13 @@ Models tested:
     - Gemini 2.5 Flash (Google direct)
     - Gemini 2.5 Flash via Gloo (OAuth2 authenticated)
 
-Place this script in your project root (same level as data/).
-
 Input:
-    data/questions/*_objective.csv
+    objective/data/questions/*_objective.csv
 
 Output:
-    data/answers/{model_name}/{dimension}_objective_answers.csv
+    objective/data/answers/{model_name}/{dimension}_objective_answers.csv
 
-.env file required:
+API.env file required at repo root:
     ANTHROPIC_API_KEY=...
     GOOGLE_API_KEY=...
     GLOO_CLIENT_ID=...
@@ -36,12 +34,13 @@ import pandas as pd
 from pathlib import Path
 from dotenv import load_dotenv
 
-load_dotenv()
+BASE_DIR = Path(__file__).parent
+load_dotenv(BASE_DIR.parent / "API.env")
 
 # ── Directories ───────────────────────────────────────────────────────────────
 
-QUESTIONS_DIR = Path("data/questions")
-ANSWERS_DIR   = Path("data/answers")
+QUESTIONS_DIR = BASE_DIR / "data" / "questions"
+ANSWERS_DIR   = BASE_DIR / "data" / "answers"
 
 # ── Gloo OAuth2 token manager ─────────────────────────────────────────────────
 

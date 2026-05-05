@@ -6,10 +6,8 @@ dimension using GPT-4o. Questions are grounded in biblical virtue ethics:
 the Sermon on the Mount, Fruit of the Spirit, the Greatest Commandment,
 and the 6 Pillars of Character from the Josephson Institute.
 
-Place this script in your project root (same level as data/).
-
 Output:
-    data/questions/character_biblical_objective.csv
+    objective/data/questions/character_biblical_objective.csv
 
 Requirements:
     pip install openai python-dotenv pandas
@@ -23,10 +21,11 @@ from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
 
-load_dotenv()
+BASE_DIR = Path(__file__).parent
+load_dotenv(BASE_DIR.parent / "API.env")
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-OUTPUT_DIR = Path("data/questions")
+OUTPUT_DIR = BASE_DIR / "data" / "questions"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # ── How many questions per biblical source ────────────────────────────────────

@@ -6,15 +6,15 @@ Reads a single consolidated grounding .txt file per dimension.
 Finance dimension uses a PDF instead of a txt.
 
 Directory structure expected:
-    QuestionSources/grounding/
-    ├── character-Biblical/   character_biblical_grounding.txt
-    ├── character-Secular/    character_secular_grounding.txt
-    ├── faith/                faith_grounding.txt
-    ├── finance/              63_questions_money.pdf   (PDF only)
-    ├── happiness/            happiness_grounding.txt
-    ├── health/               health_grounding.txt
-    ├── meaning/              meaning_grounding.txt
-    └── relationships/        relationships_grounding.txt
+    grounding/
+    ├── character-Biblical/   character_biblical_subjective_grounding_document.txt
+    ├── character-Secular/    character_secular_subjective_grounding_document.txt
+    ├── faith/                faith_subjective_grounding_document.txt
+    ├── finance/              finance_subjective_grounding_document.pdf
+    ├── happiness/            happiness_subjective_grounding_document.txt
+    ├── health/               health_subjective_grounding_document.txt
+    ├── meaning/              meaning_subjective_grounding_document.txt
+    └── relationships/        relationships_subjective_grounding_document.txt
 
 Usage:
     python fai_generate_subjective_questions.py --dimension all
@@ -22,7 +22,7 @@ Usage:
     python fai_generate_subjective_questions.py --dimension character_biblical
 
 Output:
-    data/questions/{dimension}_subjective.csv
+    subjective/data/questions/{dimension}_subjective.csv
 
 Requirements:
     pip install openai pypdf python-dotenv
@@ -42,12 +42,13 @@ try:
 except ImportError:
     raise ImportError("Run: pip install pypdf")
 
-load_dotenv()
+BASE_DIR = Path(__file__).parent
+load_dotenv(BASE_DIR.parent / "API.env")
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # ── Directory config ──────────────────────────────────────────────────────────
-GROUNDING_BASE = Path(".")
-OUTPUT_DIR = Path("data/questions")
+GROUNDING_BASE = BASE_DIR.parent / "grounding"
+OUTPUT_DIR = BASE_DIR / "data" / "questions"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # ── Dimension config ──────────────────────────────────────────────────────────
