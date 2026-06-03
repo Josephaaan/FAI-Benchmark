@@ -25,8 +25,8 @@ happiness_obj_023,happiness,gemini_2_5_flash,"In general, the best presentation 
 happiness_obj_024,happiness,gemini_2_5_flash,Which of the following is the best example of an attribute that is culturally-based rather than primarily psychologically-based?,B,B,B,True
 happiness_obj_025,happiness,gemini_2_5_flash,The perceived volume of a tone is mainly determined by its,C,C,C,True
 happiness_obj_026,happiness,gemini_2_5_flash,"In daylight, objects that reflect all wavelengths of light appear",B,B,B,True
-happiness_obj_027,happiness,gemini_2_5_flash,An artist doing a pencil drawing could use which of the following techniques to add depth to her or his drawing?,D,ERROR,ERROR,False
-happiness_obj_028,happiness,gemini_2_5_flash,The contingency model explains classical conditioning from which of the following perspectives?,C,ERROR,ERROR,False
+happiness_obj_027,happiness,gemini_2_5_flash,An artist doing a pencil drawing could use which of the following techniques to add depth to her or his drawing?,D,D,D,True
+happiness_obj_028,happiness,gemini_2_5_flash,The contingency model explains classical conditioning from which of the following perspectives?,C,C,C,True
 happiness_obj_029,happiness,gemini_2_5_flash,"After sending a decal to display on a window and greeting cards with its logo, a charity sent the same people envelopes requesting contributions. Many people send contributions. The charity is using a technique known as",B,B,B,True
 happiness_obj_030,happiness,gemini_2_5_flash,The smallest unit of language that carries meaning is a,D,D,D,True
 happiness_obj_031,happiness,gemini_2_5_flash,You are a psychologist in a state/province that grants the right of privileged communication to clients of psychologist. The attorney of the spouse of a client you are seeing requests that you testify in their divorce hearing. What is the most appropriate course of action if divorce is not specifically covered under the privilege law,A,A,A,True
@@ -35,14 +35,14 @@ happiness_obj_033,happiness,gemini_2_5_flash,"Current legal and ethical standard
 happiness_obj_034,happiness,gemini_2_5_flash,The psychology licensing exam (EPPP) is best described as:,B,B,B,True
 happiness_obj_035,happiness,gemini_2_5_flash,"Although concurrent individual and group therapy may be necessary for some patients, many therapists do not support it. One of the major concerns is that",B,D,D,False
 happiness_obj_036,happiness,gemini_2_5_flash,The Standard for Educational and Psychological Testing provides,C,C,C,True
-happiness_obj_037,happiness,gemini_2_5_flash,An organizational psychologist would most likely recommend the use of vestibule training for which of the following jobs?,A,A,A,True
+happiness_obj_037,happiness,gemini_2_5_flash,An organizational psychologist would most likely recommend the use of vestibule training for which of the following jobs?,A,B,B,False
 happiness_obj_038,happiness,gemini_2_5_flash,"In most situations, the “holder of the privilege” is:",B,B,B,True
 happiness_obj_039,happiness,gemini_2_5_flash,Statistical regression is a potential threat to a study’s internal validity when:,C,C,C,True
 happiness_obj_040,happiness,gemini_2_5_flash,Children typically take their first steps around the age of,C,C,C,True
-happiness_obj_041,happiness,gemini_2_5_flash,The primary advantage of the forced-choice distribution of rated attributes in performance appraisal is that it,B,A,A,False
+happiness_obj_041,happiness,gemini_2_5_flash,The primary advantage of the forced-choice distribution of rated attributes in performance appraisal is that it,B,B,B,True
 happiness_obj_042,happiness,gemini_2_5_flash,"For a Gestalt therapist, a primary goal of treatment is to help the client:",B,B,B,True
 happiness_obj_043,happiness,gemini_2_5_flash,Down Syndrome is caused by:,C,C,C,True
-happiness_obj_044,happiness,gemini_2_5_flash,The flaw in Anderson’s ACT theory was that some considered it ___________.,B,C,C,False
+happiness_obj_044,happiness,gemini_2_5_flash,The flaw in Anderson’s ACT theory was that some considered it ___________.,B,B,B,True
 happiness_obj_045,happiness,gemini_2_5_flash,"________ racism is occurring when members of minority groups consistently have less access than members of the majority group to quality education, good jobs, appropriate medical care, and adequate housing.",C,C,C,True
 happiness_obj_046,happiness,gemini_2_5_flash,Nonverbal and primarily nonculturally biased abilities are referred to as:,A,A,A,True
 happiness_obj_047,happiness,gemini_2_5_flash,Research on second-language acquisition has shown which of the following about children who acquire a second language,D,D,D,True
